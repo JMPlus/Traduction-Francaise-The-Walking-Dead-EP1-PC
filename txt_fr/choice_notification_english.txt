@@ -1,11 +1,11 @@
 1)  
 Un homme n'est jamais trop prudent dans le choix de ses ennemis.
 2)  
-Le bonheur est un choix qui exige un effort à chaque instant.
+Le bonheur est un choix qui exige un effort de chaque instant.
 3)  
-A choisir entre le chagrin et ou rien, je choisirais le chagrin.
+A choisir entre le chagrin ou rien, je choisirai le chagrin.
 4)  
-Là où il n'y a pas de choix, nous ferions bien de faire aucune difficulté.
+Là où il n'y a pas de choix, nous ferions bien de ne faire aucune difficulté.
 5)  
 Les plus durement touchés, comme partout, sont ceux qui n'ont pas le choix.
 6)  
@@ -15,13 +15,13 @@ Vous semblez un peu déprimé
 8)  
 L'officier ne vous aime pas beaucoup
 9)  
-Imaginons que vous n'avez rien à dire
+Imaginons que vous n'ayez rien à dire
 10)  
-Vous avez été poli pour l'adjoint.
+Vous avez été poli avec l'adjoint.
 11)  
-CHOIX:  L'adjoint pense que vous être sur la défensive.
+CHOIX:  L'adjoint pense que vous êtes sur la défensive.
 12)  
-CHOIX:  L'adjoint pensais que vous étiez poli.
+CHOIX:  L'adjoint pensait que vous étiez poli.
 13)  
 CHOIX:  Vous l'avez joué cool.
 14)  
@@ -78,7 +78,7 @@ CHOIX:  Vous avez ignoré Hershel.
 38)  
 CHOIX:  Vous avez dit la vérité.
 39)  
-CHOIX:  Hershel doute votre honnêteté.
+CHOIX:  Hershel doute de votre honnêteté.
 40)  
 CHOIX:  Vous avez menti à Hershel.
 41)  
@@ -92,7 +92,7 @@ CHOIX: Vous avez essayé de blâmer Kenny.
 45)  
 CHOIX: Vous avez essayé de protéger Kenny des reproches.
 46)  
-CHOIX: Vous avez assumé toute la responsabilité.
+CHOIX: Vous en avez assumé toute la responsabilité.
 47)  
 CHOIX: Hershel ne vous blâme pas de toute façon.
 48)  
@@ -130,9 +130,9 @@ Kenny se souviendra de votre fidélité.
 64)  
 Kenny a remarqué ça.
 65)  
-Kenny noté que vous ne l'aviez pas soutenu.
+Kenny a noté que vous ne l'aviez pas soutenu.
 66)  
-Vous attiré l'attention de Larry sur Clémentine.
+Vous attirez l'attention de Larry sur Clémentine.
 67)  
 Clémentine a été blessée par ça.
 68)  
@@ -146,7 +146,7 @@ Hershel se rappellera éternellement de ça.
 72)  
 Shawn pense que vous êtes le baby-sitter maintenant.
 73)  
-Shawn a noté que vous avez dit.
+Shawn a noté ce que vous avez dit.
 74)  
 Clémentine est vraiment bouleversée maintenant.
 75)  
@@ -194,9 +194,9 @@ L'adjoint a pris la relève.
 96)  
 Le policier a tenté de combler le silence.
 97)  
-Carley se souviendra que vous l'avez cru.
+Carley se souviendra que vous l'avez crue.
 98)  
-Carley se souviendra que vous l'avez pas cru.
+Carley se souviendra que vous l'avez pas crue.
 99)  
 Clem se sent pleine d'espoir de revoir ses parents.
 100)  
@@ -216,7 +216,7 @@ Vous n'avez fait pas de choix.
 148)  
 Vous n'avez fait pas de choix.
 107)  
-Vous avez pris la responsabilité sur vous.
+Vous en avez pris la responsabilité.
 108)  
 Vous avez défendu Kenny.
 109)  
@@ -266,11 +266,11 @@ Clémentine se souviendra de ça.
 132)  
 Vous avez montré de l'intérêt pour sa famille.
 133)  
-Vous avez eu connaissance du bateau de Kenny.
+Vous avez pris connaissance du bateau de Kenny.
 134)  
 Vous avez appris que Katjaa est une vétérinaire.
 135)  
-Katjaa appris vous avez été licencié.
+Katjaa a appris que vous avez été licencié.
 136)  
 Katjaa se souviendra de ça.
 137)  

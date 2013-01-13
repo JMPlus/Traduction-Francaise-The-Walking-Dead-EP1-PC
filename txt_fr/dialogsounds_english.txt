@@ -21,7 +21,7 @@
 11)  LEE
 [fall, landing hard on a bad leg3]
 12)  LEE
-[slips, hurts leg] {fearD} AHH!
+[slips, hurts leg] {fearD} AHH !
 13)  LEE
 [after having the first drink of water you've had in days]
 14)  LEE
@@ -29,7 +29,7 @@
 15)  LEE
 [grabbing a weapon with a zombie ontop of you] {fearC} AH !
 16)  LEE
-[yelling at a zombie in the face] {fearD} AHHHHH!
+[yelling at a zombie in the face] {fearD} AHHHHH !
 17)  LEE
 [kicking a zombie] {fearC} Nom de--DE--GAGE!
 18)  COP

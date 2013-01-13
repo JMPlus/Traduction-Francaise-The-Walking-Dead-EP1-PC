@@ -5,7 +5,7 @@ Fils de pute !<<id:{9F783173-C747-48C0-99DE-8CA69C0A1E47}>>
 3)  LEE
 Test
 4)  LEE
-{DisgustA} {body-A}Pas d'échelle... {ThinkingA}De toute manière, je vais pas monter là-haut {NormalD} {body-C}avec une jambe dans cet état.
+{DisgustA} {body-A}Pas d'échelle... {ThinkingA}De toute manière, je ne vais pas monter là-haut {NormalD} {body-C}avec une jambe dans cet état.
 5)  LEE
 [Calling up to the treehouse] {SurpriseB} {body-B}Y'a quelqu'un là-haut ?
 6)  LEE
@@ -27,9 +27,9 @@ Test
 14)  LEE
 {ThinkingA} {body-B} C'est peut-être ouvert.
 15)  LEE
-[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA} Tirez pas, {SadB}OK ?
+[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA} Ne tirez pas, {SadB}Ok ?
 34)  LEE
-[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA} Tirez pas, {SadB}OK ?
+[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA} Ne tirez pas, {SadB}Ok ?
 16)  LEE
 [to himself] Il y a peut-être quelque chose là-dedans.
 17)  LEE
@@ -39,7 +39,7 @@ Trois nouveaux messages.
 19)  ANSWERING MACHINE
 Premier Message. Laissé à 15:43.
 20)  MOM
-Hé, Sandra, c'est Diana. Nous sommes toujours à Savannah. Ed a eu un petit "incident" avec un mec bizarre à coté de l'hôtel, on a dû aller aux urgences pour passer quelques examens. Quoi qu'il en soit, il ne se sent pas assez bien pour revenir ce soir, on reste donc une journée supplémentaire. Un énorme merci pour vous être occupé de Clémentine et je vous promets que nous serons de retour à temps pour Spring Break !
+Hé, Sandra, c'est Diana. Nous sommes toujours à Savannah. Ed a eu un petit "incident" avec un mec bizarre à coté de l'hôtel, on a dû aller aux urgences pour passer quelques examens. Quoi qu'il en soit, il ne se sent pas assez bien pour revenir ce soir, on reste donc une journée supplémentaire. Un énorme merci pour vous être occupée de Clémentine et je vous promets que nous serons de retour à temps pour Spring Break !
 21)  ANSWERING MACHINE
 Deuxième Message. Laissé à 23:19.
 22)  MOM
@@ -51,7 +51,7 @@ Clémentine ? Ma chérie, si tu peux m'entendre, appelle la police. C'est le 911. 
 25)  DIR
 Le message est coupé.
 26)  ANSWERING MACHINE
-Aucun nouveaux messages.
+Aucun nouveau message.
 27)  CLEMENTINE
 Allons-y !
 28)  CLEMENTINE
@@ -65,7 +65,7 @@ Ouais !
 32)  LEE
 {ThinkingA} {body-B} Je devrais peut-être juste vérifier l'intérieur de la maison, {ThinkingB}par la baie vitrée, {NormalB}{body-A}avant de me balader dans le quartier.
 33)  LEE
-{FearA} {body-B}Il y a quelqu'un devant. {ThinkingA}On va pas revenir sur nos pas.
+{FearA} {body-B}Il y a quelqu'un devant. {ThinkingA}On ne va pas revenir sur nos pas.
 35)  LEE
 [pickup1][pained] {DisgustA} {body-B}Je n'aime pas les bois.
 36)  LEE
@@ -121,7 +121,7 @@ Ouvrir
 59)  LEE
 [pickup3] Ça va aller. Reste près de moi, nous allons marcher aussi vite que nous le pourrons.
 60)  CLEMENTINE
-[pickup1] [scared, quiet] OK.
+[pickup1] [scared, quiet] Ok.
 61)  CLEMENTINE
 [pickup1][just being shot at, close to Lee, hiding] On va mourir ?
 62)  MITCHELL
@@ -129,7 +129,7 @@ Ouvrir
 63)  
 Non.
 64)  
-Je sais pas.
+Je ne sais pas.
 65)  
 Ils sont après moi, pas toi.
 66)  
@@ -153,17 +153,17 @@ Ils sont après moi, pas toi.
 111)  CLEMENTINE
 [pickup1][super quiet,stressed, eyes squeezed shut, hiding] Je veux mon papa.
 73)  SHAWN
-[pickup1] Mec, il veulent pas écouter ça.
+[pickup1] Mec, il ne veulent pas écouter ça.
 74)  MITCHELL
 [offscreen] Reste où tu es ! Patrouille de Georgie !
 76)  
-OK !
+Ok !
 77)  
 Je viens doucement !
 78)  
 Nous sommes amicaux !
 79)  LEE
-[pickup3] [projecting] [don't move!] OK !
+[pickup3] [projecting] [don't move!] Ok !
 80)  LEE
 [pickup3][projecting][don't move] Je viens doucement !
 81)  LEE
@@ -173,7 +173,7 @@ Nous sommes amicaux !
 82)  LEE
 [pickup3][projecting][don't move] Nous sommes amicaux!
 84)  SHAWN
-[pickup1] MEC; ces choses n'ont pas peur des balles, ce sont des survivants !
+[pickup1] Mec; ces choses n'ont pas peur des balles, ce sont des survivants !
 85)  MITCHELL
 On l'a eu !
 86)  LEE

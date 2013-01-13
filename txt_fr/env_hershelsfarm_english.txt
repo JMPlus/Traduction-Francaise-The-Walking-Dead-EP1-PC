@@ -5,9 +5,9 @@ Oh mec, je suis comme un pet. KAFUCKINGBOOM !
 3)  SHAWN
 {sadA}{body-standB} Je craignais que ce soit dangereux ici aussi.
 4)  HERSHEL
-{thinkingA} Nous n'avons rien vu de ces choses. Le problème des villes, il parait. {happyA}{body-standhandships} Et vous avez ammené des invités. Que pouvons-nous faire pour vous ?
+{thinkingA} Nous n'avons rien vu de ces choses. Le problème des villes, il parait. {happyA}{body-standhandships} Et vous avez amené des invités. Que pouvons-nous faire pour vous ?
 5)  LEE
-{normalD}{body-A} Votre garcon est un sauveur.
+{normalD}{body-A} Votre garçon est un sauveur.
 6)  LEE
 {sadA} Nous euh... avons besoin d'un endroit où rester.
 7)  LEE
@@ -15,7 +15,7 @@ Oh mec, je suis comme un pet. KAFUCKINGBOOM !
 8)  LEE
 {sadA} Nous sommes en quête d'un endroit sûr.
 9)  
-Votre garcon est un sauveur.
+Votre garçon est un sauveur.
 10)  
 Nous avons besoin d'un endroit ou rester.
 11)  
@@ -25,31 +25,31 @@ Nous sommes en quête d'un endroit sûr.
 13)  HERSHEL
 [sarcastic] {normalB} Heureux qu'il ait pu être utile à quelqu'un.
 14)  HERSHEL
-{normalA} Vous êtes bienvenu ici mais juste pour cette nuit. {disgustA} Je tiens pas un bed & breakfast.
+{normalA} Vous êtes bienvenus ici mais juste pour cette nuit. {disgustA} Je ne tiens pas un bed & breakfast.
 16)  HERSHEL
-{normalA} Vous êtes bienvenu ici mais juste pour cette nuit. {disgustA} Je tiens pas un bed & breakfast.
+{normalA} Vous êtes bienvenus ici mais juste pour cette nuit. {disgustA} Je ne tiens pas un bed & breakfast.
 17)  HERSHEL
-{normalA} Vous êtes bienvenu ici mais juste pour cette nuit. {disgustA} Je tiens pas un bed & breakfast.
+{normalA} Vous êtes bienvenus ici mais juste pour cette nuit. {disgustA} Je ne tiens pas un bed & breakfast.
 18)  HERSHEL
-{normalA} Vous êtes bienvenu ici mais juste pour cette nuit. {disgustA} Je tiens pas un bed & breakfast.
+{normalA} Vous êtes bienvenus ici mais juste pour cette nuit. {disgustA} Je ne tiens pas un bed & breakfast.
 368)  HERSHEL
-{normalA} Vous êtes bienvenu ici mais juste pour cette nuit. {disgustA} Je tiens pas un bed & breakfast.
+{normalA} Vous êtes bienvenus ici mais juste pour cette nuit. {disgustA} Je ne tiens pas un bed & breakfast.
 534)  HERSHEL
-{normalA} Vous êtes bienvenu ici mais juste pour cette nuit. {disgustA} Je tiens pas un bed & breakfast.
+{normalA} Vous êtes bienvenus ici mais juste pour cette nuit. {disgustA} Je ne tiens pas un bed & breakfast.
 15)  HERSHEL
 {normalA} Bien.
 19)  SHAWN
 {normalC} Il est blessé et il essaie de se rendre à Macon. Je lui ai dit que tu pourrais le rafistoler.
 20)  LEE
-{disgustA} Ma jambe est un peu amochée. {fearA} Shawn dit que vous pourriez être en mesure au moins de la bander.
+{disgustA} Ma jambe est un peu amochée. {fearA} Shawn dit que vous pourriez être en mesure d'au moins la bander.
 21)  HERSHEL
 {happyA}{body-standA} Je peux vous regarder ça.  Shawn, va à l'intérieur et surveille ta soeur. Vous, prenez un siège sur le porche, je vais aller voir ce que j'ai.
 22)  HERSHEL
 {normalC} Jetons un coup d'oeil. [a beat...] {disgustA} Ouais, c'est enflé à mort.
 23)  LEE
-{thinkingB} Ca fait un MAL de chien.
+{thinkingB} Ca fait un mal de chien.
 24)  LEE
-{normalC} C'est pas trop moche.
+{normalC} Ce n'est pas trop moche.
 25)  LEE
 {normalC} Ca pourrait être pire.
 26)  HERSHEL
@@ -59,13 +59,13 @@ Nous sommes en quête d'un endroit sûr.
 28)  HERSHEL
 {thinkingA} Ca en a tout l'air. On dirait que les choses vont terriblement mal dans les villes.
 29)  HERSHEL
-{normalA} Eh bien, vous dites pas grand-chose. {happyA}  J'aurais souhaité en avoir cinq, tout comme vous.
+{normalA} Eh bien, vous ne dites pas grand-chose. {happyA}  J'aurais souhaité en avoir cinq, tout comme vous.
 523)  HERSHEL
-{normalA} Eh bien, vous dites pas grand-chose. {happyA}  J'aurais souhaité en avoir cinq, tout comme vous.
+{normalA} Eh bien, vous ne dites pas grand-chose. {happyA}  J'aurais souhaité en avoir cinq, tout comme vous.
 30)  
 Ca fait un mal de chien.
 31)  
-C'est pas trop moche.
+Ce n'est pas trop moche.
 32)  
 Ca pourrait être pire.
 33)  HERSHEL
@@ -125,17 +125,17 @@ Je ne l'ai pas dit.
 52)  LEE
 {sadA} Je me la suis juste tordue.
 53)  LEE
-{thinkingA} Je m'en souviens même plus. {sadA} C'est la folie là-bas dans la ville.
+{thinkingA} Je ne m'en souviens même plus. {sadA} C'est la folie là-bas dans la ville.
 528)  LEE
-{thinkingA} Je m'en souviens même plus. {sadA} C'est la folie là-bas dans la ville.
+{thinkingA} Je ne m'en souviens même plus. {sadA} C'est la folie là-bas dans la ville.
 54)  
 En tombant.
 55)  
 Dans un accident de voiture
 56)  
-En sautant d'une cloture.
+En sautant d'une clôture.
 57)  
-Je sais plus.
+Je ne sais plus.
 58)  HERSHEL
 {thinkingA} C'est ça. [doubting]
 59)  HERSHEL
@@ -157,27 +157,27 @@ Humph. Sûrement.
 66)  SHAWN
 {sadA} {body-standB} Hé p'pa, {thinkingB} je pensais que la première chose à faire demain serait de renforcer la clôture autour de la ferme.
 67)  HERSHEL
-[pickup1]La maison est pleine. Nous avons une autre famille qui dort dans la grange. Vous et votre fille êtes les bienvenus pour y séjourner, quand nous aurons terminé ici.
+[pickup1]La maison est pleine. Nous avons une autre famille qui dort dans la grange. Vous et votre fille êtent les bienvenus pour y séjourner, quand nous aurons terminé ici.
 68)  LEE
 {normalB} Je veille sur elle jusqu'à ce que nous {normalC}retrouvions ses parents.
 69)  HERSHEL
-{disgustA} Ca n'semble pas nécessaire.
+{disgustA} Ca ne semble pas nécessaire.
 70)  SHAWN
 [pickup1] Je sais pas ce que tu as vu à la télévision ou entendu à la radio, mais il y a de {fearA}sérieuses...[keeps it down with a kid around] {thinkingA} merdes qui arrivent.
 71)  
 Votre fils a raison.
 72)  
-Je ne m'inquieterais pas trop.
+Je ne m'inquièterais pas trop.
 73)  LEE
 {normalA} Votre fils à raison. {angryA} Vous devriez fortifer cet endroit.
 74)  LEE
-{thinkingA} Je ne m'inquiéterais pas trop.  Nous sommes plutôt loin de la ville, on dirait que c'est là-bas le pire.
+{thinkingA} Je ne m'inquièterais pas trop.  Nous sommes plutôt loin de la ville, on dirait que c'est là-bas le pire.
 75)  SHAWN
 {angryA} P'pa, je suis sérieux. {sadA} Lee, dites lui ce que nous avons vu là-bas.
 76)  HERSHEL
 {happyA} Ces trucs-là n'arrivent pas dans le coin, Shawn.
 77)  LEE
-{fearA} J'ai vu un homme se laissé écraser sans sourciller.
+{fearA} J'ai vu un homme se laisser écraser sans sourciller.
 78)  LEE
 {fearA} J'ai vu un flic revenir d'entre les morts.
 79)  LEE
@@ -263,7 +263,7 @@ Oh, chéri ! Ne sois pas ridicule... Je reviens tout de suite...
 117)  KENNY
 {happyA} Nous ferions mieux d'aller là ou nous n'entendrons pas la fin de ça.
 118)  KENNY
-{happyB} Mais je parie que ton papa leur fout la pétoche, hein?
+{happyB} Mais je parie que ton papa leur fout la pétoche, hein ?
 119)  KENNY
 {normalB} Kenny.
 120)  KENNY
@@ -287,13 +287,13 @@ P'pa! On va construire une clôture ! Il y a un tracteur et tout !
 129)  LEE
 {happyA} Il cacarde ou cancane ?
 130)  LEE
-{thinkingB} Où les parents nomment leur gamins Duck ?
+{thinkingB} Où les parents nomment leurs gamins Duck ?
 131)  
 Duck ?
 132)  
 Il cacarde ou cancane ?
 133)  
-Ou les parents nomment leur gamins "Duck" ?
+Ou les parents nomment leurs gamins "Duck" ?
 134)  LEE
 {normalC} C'est une caractéristique importante ces derniers temps.
 135)  KENNY
@@ -303,7 +303,7 @@ Ou les parents nomment leur gamins "Duck" ?
 137)  KENNY
 {happyC} Mais il se rattrape grâce à son enthousiasme.
 138)  DUCK
-[from offscreen] P'PAAAA!
+[from offscreen] P'PAAAA !
 139)  KENNY
 {happyA} Cancane.
 140)  DUCK
@@ -313,19 +313,19 @@ Ou les parents nomment leur gamins "Duck" ?
 142)  KENNY
 {happyA} Nous sommes de Fort Lauderdale. {normalC} Nous étions sur le chemin du retour avant que les choses se mettent à se lever et à partir en cacahuète.
 143)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
 315)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
 321)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
 322)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
 326)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
 522)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes s'il le faut.
 538)  KENNY
-{normalC} Eh bien Macon est sur la route et, personnellement, j'apprecie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes si il le faut.
+{normalC} Eh bien Macon est sur la route et, personnellement, j'apprécie la compagnie d'un gars qui peut {thinkingA}éclater quelques têtes si il le faut.
 144)  KENNY
 {happyA} Alors, vous étiez sur le chemin de Macon.
 317)  KENNY
@@ -377,7 +377,7 @@ Ou les parents nomment leur gamins "Duck" ?
 150)  LEE
 {happyA} Merci, mais non merci.
 151)  
-Bien sur, nous allons baliser tout le long.
+Bien sûr, nous allons baliser tout le long.
 152)  
 Nous verrons comment les choses se passeront.
 153)  
@@ -399,7 +399,7 @@ Non merci.
 161)  SHAWN
 {normalB}{body-standA} Bien, nous devrions aller bosser. {sadA} Nous avons tous vu ce que ces choses peuvent faire alors plus vite nous ferons cette clôture mieux ce sera.
 162)  SHAWN
-{happyC} Ouais? Eh bien j'ai besoin d'un bon contremaître. {sadA} Tu peux t'asseoir sur le tracteur et me crier dessus à chaque pause que je ferai.
+{happyC} Ouais ? Eh bien j'ai besoin d'un bon contremaître. {sadA} Tu peux t'asseoir sur le tracteur et me crier dessus à chaque pause que je ferai.
 163)  KATJAA
 {happyA} Je peux garder un oeil sur votre petite fille ici sur le porche. On pourra visiter.
 164)  CLEMENTINE
@@ -419,13 +419,13 @@ Non merci.
 171)  LEE
 {thinkingA} Je ne sais pas si c'est une bonne idée.
 172)  LEE
-{sadA} Si vous voyez quelque chose, pénétrez à l'intérieur et verrouillez la porte.
+{sadA} Si vous voyez quelque chose, rentrez à l'intérieur et verrouillez la porte.
 173)  
-OK, merci.
+Ok, merci.
 174)  
 Je ne sais pas si c'est une bonne idée.
 175)  
-Si vous voyez quelque chose, pénétrez à l'intérieur.
+Si vous voyez quelque chose, rentrez à l'intérieur.
 176)  KATJAA
 {happyC} Je vous en prie.
 177)  KENNY
@@ -595,7 +595,7 @@ Mal au cul, la plupart du temps. C'est gros, lourd et plus lent que euh...
 214)  SHAWN
 C'est juste quelques saletés que j'ai pu trouver autour de la propriété.
 215)  SHAWN
-P'pa m'a demandé de transporter toute ces choses à la décharge pendant des semaines. Je suis content de pas l'avoir fait.
+P'pa m'a demandé de transporter toute ces choses à la décharge pendant des semaines. Je suis content de ne pas l'avoir fait.
 216)  KENNY
 Ce n'est pas le pickup le plus fiable du monde mais il fait le boulot.
 217)  KENNY
@@ -621,15 +621,15 @@ Pas encore; je me prépare à faire une "Passe de fortification" si vous voulez. N
 227)  LEE
 {sadA}{body-A} J'avais peur pour le garçon.
 228)  LEE
-{sadB}{body-A} Je pensais pouvoir les aider tout les deux.
+{sadB}{body-A} Je pensais pouvoir les aider tous les deux.
 229)  
 Je suis désolé.
 230)  
 J'ai paniqué.
 231)  
-J'avais peur pour le garcon.
+J'avais peur pour le garçon.
 232)  
-Je pensais pouvoir les aider tout les deux.
+Je pensais pouvoir les aider tous les deux.
 233)  HERSHEL
 {disgustA} Regardez-le.
 234)  HERSHEL
@@ -637,9 +637,9 @@ Je pensais pouvoir les aider tout les deux.
 235)  HERSHEL
 {angryB} Désolé n'est pas le bon mot.
 236)  HERSHEL
-{angryC} Rappelez-vous CA la prochaine fois que vous paniquez.
+{angryC} Rappelez-vous ça la prochaine fois que vous paniquez.
 237)  HERSHEL
-{angryC} Mais vous n'étiez pas inquiet à SON sujet.
+{angryC} Mais vous n'étiez pas inquiet à son sujet.
 238)  HERSHEL
 {disgustA} Vous avez mal cru. {fearA} Et maintenant...
 239)  HERSHEL
@@ -675,7 +675,7 @@ C'est la faute de Kenny.
 252)  HERSHEL
 {disgustA} Si jamais votre fille est prise au piège, vous ferez mieux d'espérer être plus fort ou que vos {angryA}amis ne vous lâchent pas.
 253)  HERSHEL
-{angryC} Je peux pas. Vous, surveillez vos arrières. {disgustA}Attendez que ce soit votre fille et vous qui ayez besoin de son aide.
+{angryC} Je ne peux pas. Vous, surveillez vos arrières. {disgustA}Attendez que ce soit votre fille et vous qui ayez besoin de son aide.
 254)  HERSHEL
 {angryB} Et c'est pourquoi je vais souhaiter votre mort pour le reste de ma vie.
 255)  SHAWN
@@ -691,7 +691,7 @@ Pickup
 260)  
 Bois
 265)  LEE
-[pickup1] [urgent] Je m'occupe de Shawn! [you save the other guy]
+[pickup1] [urgent] Je m'occupe de Shawn ! [you save the other guy]
 266)  KENNY
 [pickup1] [urgent] J'ai votre fils !
 267)  LEE
@@ -701,9 +701,9 @@ Enlevez-moi ça !
 301)  SHAWN
 Enlevez-moi ça !
 269)  KENNY
-[pickup1][panicked] Enlevez-moi ce truc!
+[pickup1][panicked] Enlevez-moi ce truc !
 270)  LEE
-On va vous enlevez ça !
+On va vous enlever ça !
 271)  SHAWN
 Merde, ils arrivent, ils arrivent !
 275)  SHAWN
@@ -757,7 +757,7 @@ LES LAISSEZ PAS M'EMMENER !
 295)  DUCK
 [a bunch of panicked/trapped/I don't want to die sounds1]
 296)  SHAWN
-Ma jambe est coinçée !
+Ma jambe est coincée !
 298)  SHAWN
 KENNY ! PUTAIN ! AIDEZ-MOI !
 299)  SHAWN
@@ -765,7 +765,7 @@ LEE, je vous en prie, aidez-moi !
 300)  SHAWN
 A L'AIDE ! PUTAIN ! AIDEZ-MOI !
 302)  LEE
-[pickup1] Je vais essayer de vous tier de là ! [super panicked]
+[pickup1] Je vais essayer de vous tirer de là ! [super panicked]
 330)  
 Kenny
 335)  
@@ -785,7 +785,7 @@ Aider Kenny
 364)  HERSHEL
 [pickup1] Ca a été tranquille comme d'habitude ces derniers jours. Le vieux Breckon a descendu la route, je crois que sa jument boitait mais ce n'est pas vraiment nouveau.
 365)  HERSHEL
-[pickup1]Tu as ammené des invités.
+[pickup1]Tu as amené des invités.
 366)  SHAWN
 [pickup1] Je lui ai dit que nous pourrions l'aider.
 535)  SHAWN
@@ -795,15 +795,15 @@ Aider Kenny
 533)  LEE
 [pickup1] Nous apprécierions vraiment.
 369)  HERSHEL
-[pickup1] Donc, vous êtes tout les deux avec votre fille.
+[pickup1] Donc, vous êtes tous les deux avec votre fille.
 370)  SHAWN
-[pickup1] Oh, c'est pas sa fille, c'est son babysitter.
+[pickup1] Oh, ce n'est pas sa fille, c'est son babysitter.
 371)  SHAWN
-[pickup1] Oh, c'est pas sa fille, c'est un voisin.
+[pickup1] Oh, ce n'est pas sa fille, c'est un voisin.
 372)  SHAWN
-[pickup1] Oh, c'est pas sa fille, c'est... hé bien... un gars qui l'a trouvée.
+[pickup1] Oh, ce n'est pas sa fille, c'est... hé bien... un gars qui l'a trouvée.
 373)  SHAWN
-[pickup1] Oh, c'est pas sa fille, c'est.. juste un bon Samaritain. [sincere]
+[pickup1] Oh, ce n'est pas sa fille, c'est.. juste un bon Samaritain. [sincere]
 374)  HERSHEL
 [pickup1][talking to a little girl] Chérie, tu connais cet homme ?
 375)  CLEMENTINE
@@ -811,9 +811,9 @@ Aider Kenny
 376)  HERSHEL
 [pickup1] Très bien alors.
 377)  HERSHEL
-[pickup1] Eh bien, on dirait que vous vous êtes salement ammoché la jambe.
+[pickup1] Eh bien, on dirait que vous vous êtes salement amoché la jambe.
 378)  LEE
-[pickup1] Ouais, ca va pas trop mal.
+[pickup1] Ouais, ca ne va pas trop mal.
 379)  LEE
 [pickup1] Plutôt loin.
 380)  CLEMENTINE
@@ -823,7 +823,7 @@ Aider Kenny
 382)  LEE
 [pickup1] [sincere]J'en suis sûr, Clem.
 383)  CLEMENTINE
-[pickup1][savannah is 'pretty far', quiet, in bed] Oh. OK.
+[pickup1][savannah is 'pretty far', quiet, in bed] Oh. Ok.
 384)  
 Merde.
 385)  
@@ -865,13 +865,13 @@ Fumier
 401)  LEE
 [pickup1] Oui ça devait l'être.
 402)  LEE
-[pickup1] Je suis désolé; je devrais pas parler comme ça.
+[pickup1] Je suis désolé; je ne devrais pas parler comme ça.
 403)  CLEMENTINE
 [pickup1] Mon père dit "fiente".
 404)  SHAWN
-[pickup1] Je pense pas que personnes sache encore à quel point c'est gros.
+[pickup1] Je ne pense pas que quelqu'un sache encore à quel point c'est gros.
 405)  HERSHEL
-[pickup1]Vous et la petite êtes les bienvenus pour vous reposer là-dedans.
+[pickup1]Vous et la petite êtent les bienvenus pour vous reposer là-dedans.
 406)  HERSHEL
 [pickup1] Je n'ai pas compris ton nom, ma belle.
 407)  CLEMENTINE
@@ -889,11 +889,11 @@ Comme tout le monde.
 413)  LEE
 J'ai été poursuivi par deux ou trois personnes mortes.
 414)  LEE
-[awkward] OK, ça serait préférable
+[awkward] Ok, ça serait préférable
 415)  HERSHEL
 [pickup1] Nous allons nettoyer ça, la bander et vous irez mieux.
 416)  HERSHEL
-[pickup1] Si votre jambe est chaude ou gonflée, vous aurez probablement à faire à une infection.
+[pickup1] Si votre jambe est chaude ou gonflée, vous aurez probablement affaire à une infection.
 417)  HERSHEL
 [pickup1] On vous abattra probablement.
 418)  LEE
@@ -959,7 +959,7 @@ Elle n'avait pas encore commencé.
 435)  LEE
 {normalD} J'étais juste sorti faire un tour.
 440)  HERSHEL
-[pickup1] Les infos disent de pas bouger.
+[pickup1] Les infos disent de ne pas bouger.
 441)  LEE
 Ouais, eh bien c'est une erreur.
 442)  LEE
@@ -999,7 +999,7 @@ Elle a passé quelques jours toute seule sans rien sauf des morts pour toute comp
 465)  LEE
 {surpriseA} Quel autre choix y a-t-il ?
 466)  HERSHEL
-[pickup1] Vous êtes sérieux quant a vous occupez d'elle alors ?
+[pickup1] Vous êtes sérieux quant à vous occupez d'elle alors ?
 467)  LEE
 {normalD} Elle est en sécurité maintenant.
 468)  LEE
@@ -1011,7 +1011,7 @@ Elle a passé quelques jours toute seule sans rien sauf des morts pour toute comp
 471)  HERSHEL
 [pickup1] Nous pouvons simplement nous en tenir là.
 472)  LEE
-Je suis pas son père. Je m'appelle Lee.
+Je ne suis pas son père. Je m'appelle Lee.
 473)  LEE
 Dans la direction de Macon, je suppose.
 474)  HERSHEL
@@ -1047,9 +1047,9 @@ Dis bonjour à ton père pour moi.
 487)  HERSHEL
 [pickup1] Je suis désolé, Shawn.
 488)  SHAWN
-[pickup1] Ces choses l'ont eu. Papa, je comprends pas ce qui se passe.
+[pickup1] Ces choses l'ont eu. Papa, je ne comprends pas ce qui se passe.
 489)  HERSHEL
-[pickup1] Non, c'est pas vrai.
+[pickup1] Non, ce n'est pas vrai.
 490)  HERSHEL
 [pickup1] Eh bien, je suis heureux que tu l'aies amené avec toi, alors.
 491)  
@@ -1077,13 +1077,13 @@ Un Officier de Police.
 503)  HERSHEL
 [pickup1] Je vous ai posé une question...
 504)  HERSHEL
-[pickup1] Avec ce qui s'est passé pour ton ami, c'est peut-être pas une mauvaise idée.
+[pickup1] Avec ce qui s'est passé pour ton ami, ce n'est peut-être pas une mauvaise idée.
 505)  SHAWN
 [pickup1] Duck et moi sommes sur le coup.
 506)  SHAWN
-[pickup1] [hurt, mortally] Je vais bien pap... ca va...
+[pickup1] [hurt, mortally] Je vais bien pap... ça va...
 507)  HERSHEL
-[pickup1] Je peux te soigner, t'inquiétez pas, on va te recoudre.
+[pickup1] Je peux te soigner, t'inquiètes pas, on va te recoudre.
 508)  SHAWN
 [pickup1] C'était limite... Il m'a presque eu, bon sang. [it did get him] Lee a essayé de me sauver.
 509)  HERSHEL

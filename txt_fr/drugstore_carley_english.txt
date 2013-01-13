@@ -3,7 +3,7 @@
 2)  LEE
 {NormalB}{body-A}Salut.
 3)  CARLEY
-{ThinkingA}{body-StandA}Eh bien, déconnez pas avec une journaliste, {HappyA}en particulier quand elle est à trois jours de sa dernière tasse de café.
+{ThinkingA}{body-StandA}Eh bien, ne déconnez pas avec une journaliste, {HappyA}en particulier quand elle est à trois jours de sa dernière tasse de café.
 4)  LEE
 {HappyA}{body-E}Vous avez l'air d'être un bon coup.
 6)  CARLEY
@@ -25,11 +25,11 @@ Topic in sequence
 15)  LEE
 {HappyA}{body-E}Vous semblez savoir prendre soin de vous plutôt pas mal.
 16)  LEE
-{ThinkingA}{body-A}Comment êtes-vous atterri ici ?
+{ThinkingA}{body-A}Comment avez-vous atterri ici ?
 17)  CARLEY
 {SadA}C'était une conne, mais, {SadB}vous voyez.
 18)  LEE
-{HappyB}{body-E}Je peux pas le dire.
+{HappyB}{body-E}Je ne peux pas dire.
 19)  CARLEY
 {HappyA}{Body-StandA}Ha, vraiment ? Je suis une catastrophe.
 20)  LEE
@@ -77,7 +77,7 @@ Ce gars vous a sauvée ?
 41)  3L. LEE
 Merci, en passant.
 42)  CARLEY
-{SadA}{Body-StandA}Ouais, et j'ai eu que dalle pour le matériel d'enregistrement mais avec ces{HappyA} évènements, ça sera pas la pénurie de témoignages exclusifs.
+{SadA}{Body-StandA}Ouais, et j'ai eu que dalle pour le matériel d'enregistrement mais avec ces{HappyA} évènements, il n'y aura pas de pénurie de témoignages exclusifs.
 43)  LEE
 {ThinkingA}{body-E}Vous faites de la radio ?
 44)  CARLEY
@@ -135,9 +135,9 @@ L'histoire du siècle, hein ?
 136)  LEE
 {HappyA}{body-B}OK.
 61)  LEE
-{NormalA}{body-A}Oh, euh, {ThinkingB}ouais elle pourrait, je pense.
+{NormalA}{body-A}Oh, euh, {ThinkingB}ouais elle pourrait, je crois.
 137)  LEE
-{NormalA}{body-A}Oh, euh, {ThinkingB}ouais elle pourrait, je pense.
+{NormalA}{body-A}Oh, euh, {ThinkingB}ouais elle pourrait, je crois.
 62)  LEE
 [pickup1] Puis-je faire quelque chose pour vous, Carley ?
 63)  CARLEY
@@ -155,13 +155,13 @@ Donner Nourriture à
 71)  
 Comment êtes-vous atterri ici ?
 72)  
-Sur quoi vous travaillez ?
+Sur quoi travaillez-vous ?
 74)  
 Ca va ?
 75)  LEE
 [pickup3] Nan. [couldn't figure it out]
 76)  CARLEY
-[pickup1] On pourrait pas comprendre, hein ?
+[pickup1] On ne pourrait pas comprendre, hein ?
 77)  LEE
 [pickup3] Ouais, vous tenez le coup.
 78)  CARLEY
@@ -217,7 +217,7 @@ Très bien alors.
 101)  LEE
 [pickup3] Vous n'avez pas besoin d'être... C'est traumatisant.
 102)  CARLEY
-[pickup1] Je suis sûr que certaines personnes s'en sont sorties. Peut-être qu'ils n'ont pas tous était secouru.
+[pickup1] Je suis sûr que certaines personnes s'en sont sorties. Peut-être qu'ils n'ont pas tous été secourus.
 103)  LEE
 [pickup3] Vous allez vraiment "bien" ? Tous vos collègues sont probablement morts.
 104)  CARLEY
@@ -245,9 +245,9 @@ Encore cassée ?
 116)  
 Laissez-moi y jeter un coup d'oeil.
 117)  CARLEY
-[pickup1][frustrated] Ouais, j'arrive pas à comprendre.
+[pickup1][frustrated] Ouais, je n'arrive pas à comprendre.
 118)  LEE
-[pickup3] Ca marche toujours pas ?
+[pickup3] Ca ne marche toujours pas ?
 121)  
 Montrer Télécommande à
 122)  

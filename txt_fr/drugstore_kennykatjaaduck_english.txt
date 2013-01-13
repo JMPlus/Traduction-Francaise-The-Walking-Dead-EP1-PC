@@ -19,11 +19,11 @@ Ca arrive.
 10)  LEE
 {AngryA}{body-E}Vous avez laissé ce garçon mourir.
 11)  
-Vous avez laisse ce garçon mourir.
+Vous avez laissé ce garçon mourir.
 12)  KENNY
 {SadB}Je crois.
 13)  LEE
-[distant] {fearA}Ouais, c'est... pas simple.
+[distant] {fearA}Ouais, ce n'est... pas simple.
 14)  KENNY
 {AngryA}J'ai tué ce garçon. {AngryB}Nous aurions pu le sauver ensemble.
 15)  KENNY
@@ -117,7 +117,7 @@ Réprimander ?
 50)  LEE
 {DisgustA}{Body-E}[disgust] Hmph.
 51)  KENNY
-{FearA}Mec, regardez moi. {FearB}Je ne sait pas si je peux supporter ça.
+{FearA}Mec, regardez moi. {FearB}Je ne sais pas si je peux supporter ça.
 52)  
 Comment va Duck ?
 53)  KATJAA
@@ -153,7 +153,7 @@ Comment je pourrais le savoir ?
 71)  KATJAA
 {AngryA}C'est juste une petite fille, Ken.
 68)  KENNY
-{ThinkingA}Qu'est-ce que vous disiez, Lee ? Elle a passée {SurprisedA}des jours à survivre {ThinkingA}toute seule ?
+{ThinkingA}Qu'est-ce que vous disiez, Lee ? Elle a passé {SurprisedA}des jours à survivre {ThinkingA}toute seule ?
 69)  KATJAA
 {AngryA}Mais tu n'as aucune idée {AngryB}des dégâts émotionnels qu'elle vit {SadA}chaque seconde depuis que sa famille a disparu.
 70)  KATJAA
@@ -161,7 +161,7 @@ Comment je pourrais le savoir ?
 72)  KENNY
 {SadA}Ouais, eh bien... [he has a point]
 73)  KENNY
-{ThinkingA}Lee dit qu'elle a passée des jours à survivre seule. {HappyA}Ca demande de la ténacité.
+{ThinkingA}Lee dit qu'elle a passé des jours à survivre seule. {HappyA}Ca demande de la ténacité.
 74)  KENNY
 {HappyA}Elle semble pouvoir très bien s'occuper d'elle.
 75)  KATJAA
@@ -197,13 +197,13 @@ Quel est le plan ?
 90)  LEE
 {ThinkingA}{body-A}Quel est le plan ?
 91)  
-Je sais pas.
+Je ne sais pas.
 92)  
 Ils sont partis.
 93)  
 Ils étaient propriétaires de cet endroit.
 94)  LEE
-{SadB}{body-A}Je sais pas.
+{SadB}{body-A}Je ne sais pas.
 95)  LEE
 {SadC}{body-E}Ils sont... partis.
 107)  LEE
@@ -211,15 +211,15 @@ Ils étaient propriétaires de cet endroit.
 96)  LEE
 {SadB}{body-A}Ils étaient propriétaires de cet endroit.
 97)  KATJAA
-{ThinkingA}Eh bien, {SadA}ils seraient pas dans leur maison ou un endroit comme ça ?
+{ThinkingA}Eh bien, {SadA}ils ne seraient pas dans leur maison ou un endroit comme ça ?
 98)  KATJAA
 {FearA}Bien, vous ne savez simplement pas.
 99)  LEE
-{FearB}{body-C}Je... Je suis pas sûr qu'ils l'ont fait. Nous avons passé quelques maisons sur la route... et... {SadA}les choses se sont assez mal passée dans le coin.
+{FearB}{body-C}Je... Je suis pas sûr qu'ils l'ont fait. Nous avons passé quelques maisons sur la route... et... {SadA}les choses se sont assez mal passées dans le coin.
 100)  KENNY
-{AngryB}Kat, ce sont pas tes affaires.
+{AngryB}Kat, ce ne sont pas tes affaires.
 103)  KENNY
-{AngryB}Kat, ce sont pas tes affaires.
+{AngryB}Kat, ce ne sont pas tes affaires.
 101)  LEE
 {AngryC}Je crois, d'accord ?
 102)  KATJAA
@@ -235,7 +235,7 @@ C'étaient de braves gens. {SadA}Je n'étais pas souvent présent, mais, {SadC}ils 
 109)  KENNY
 {SadA}Je suis sûr que peu importe où ils sont, {HappyA}ils vont mieux que nous. [gives Lee a knowing look].
 110)  KENNY
-{AngryA}Kat, ce sont pas tes affaires.
+{AngryA}Kat, ce ne sont pas tes affaires.
 111)  
 Vous allez bien ?
 113)  
@@ -253,7 +253,7 @@ Partir
 118)  KENNY
 {ThinkingA}Hmmph. {AngryA}Prenez votre temps.
 119)  LEE
-{ThinkingB}{body-B}On ferait mieux de revenir prendre des médoc de ce type.
+{ThinkingB}{body-B}On ferait mieux de retourner chercher les médoc de ce type.
 120)  LEE
 {AngryA}Très bien.
 121)  LEE
@@ -273,7 +273,7 @@ Partir
 128)  KENNY
 {NormalA}Essaie de te reposer un peu, chérie.
 129)  LEE
-{SadA}C'est pas beaucoup, mais voilà.
+{SadA}Ce n'est pas beaucoup, mais voilà.
 130)  LEE
 {HappyA}Pour le petit.
 131)  KENNY
@@ -281,13 +281,13 @@ Partir
 132)  KATJAA
 {HappyA}C'est gentil, Lee.
 139)  KENNY
-[pickup1] Génial, rien à foutre.
+[pickup1]Génial, rien à foutre.
 140)  KATJAA
 [pickup1] {happyA}Merci, Lee.
 148)  KATJAA
 [pickup1] {happyA}Merci, Lee.
 141)  KENNY
-[pickup1] {thinkingA}Dit le gars qui n'a pas prit son coup de poing dans la tronche.
+[pickup1] {thinkingA}Dis le gars qui n'a pas pris son coup de poing dans la tronche.
 142)  KENNY
 [pickup1] {happyA}Bref, nous, Kat et moi, apprécions votre aide.
 145)  KENNY
@@ -299,7 +299,7 @@ Partir
 146)  LEE
 [pickup1] {angryA}Ouais. On y a été{surpriseA}poussés, vous savez.
 147)  KENNY
-[pickup1] Vous n'avez pas besoin de le dire; J'étais a deux doigts de lui arracher la tête.
+[pickup1] Vous n'avez pas besoin de le dire; J'étais à deux doigts de lui arracher la tête.
 149)  KENNY
 [pickup1] {surprisedA}Hé Lee; vous avez vraiment foutu une trouille d'enfer au vioque.
 150)  KATJAA
@@ -315,7 +315,7 @@ Partir
 155)  KENNY
 [pickup1] {angryB}N'essayez même pas de venir par ici.
 156)  KENNY
-[pickup1] Non, Kat. Ce {angryC}fils de pute aurait laissé cet homme donner notre fils a bouffer aux loups.
+[pickup1] Non, Kat. Ce {angryC}fils de pute aurait laissé cet homme donner notre fils à bouffer aux loups.
 157)  
 Je le suis.
 158)  
@@ -331,7 +331,7 @@ Non.
 163)  KENNY
 [pickup1] {thinkingA}Je crois que tu as raison, chérie. De toute manière, {angryA}Lee, qu'est-ce que c'était ?
 164)  LEE
-[pickup1] {angryA}C'est pas aussi simple.
+[pickup1] {angryA}Ce n'est pas aussi simple.
 165)  KENNY
 [pickup1]{angryB}[soupir, begrudingly agreeing]
 166)  

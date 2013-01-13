@@ -11,7 +11,7 @@
 6)  GLENN
 Ouais... J'y ai des amis et{ThinkingA} j'peux pas me contenter de rester ici en sachant qu'ils pourraient être coincés dans cette ville.
 7)  LEE
-{ThinkingA} On dirait que personne ne sait ce qui se passe là. {NormalC} Quand nous sommes partis il y a quelques jours ç'aurait pu aller aussi bien dans un sens que dans l'autre.
+{ThinkingA} On dirait que personne ne sait ce qui se passe là. {NormalC} Quand nous sommes partis il y a quelques jours ça aurait pu aller aussi bien dans un sens que dans l'autre.
 8)  GLENN
 {NormalB}Il faut que je saisisse ma chance.
 9)  <<ID
@@ -25,7 +25,7 @@ Ouais... J'y ai des amis et{ThinkingA} j'peux pas me contenter de rester ici en 
 13)  
 Je crois que c'est le mauvais numéro.
 14)  
-Vous devez faire c'que vous avez à faire.
+Vous devez faire ce que vous avez à faire.
 15)  
 Trouvez vos amis.
 16)  LEE
@@ -61,7 +61,7 @@ Eh bien, portez-vous bien et soyez prudents. Et... espérons que tout cela se ter
 31)  
 Ouais, elle est super.
 32)  
-Son père a essaye de me tuer, alors...
+Son père a essayé de me tuer, alors...
 33)  
 Elle est bien.
 34)  
@@ -81,7 +81,7 @@ Sinon tout le monde ici saura que Lee Everett est un meurtrier.
 40)  LARRY
 {HappyB}C'est vrai. {AngryA}Je sais qui vous êtes et{AngryB} je sais que vous êtes un tueur. Et si vous vous approchez de ma fille ou{AngryC} que vous dépassez les bornes UNE SEULE FOIS,{DisgustA}alors tout le monde le saura.
 41)  LARRY
-{HappyA}Bien. {AngryB}Tenez-vous loin d'elle ; sinon {AngryA}tout le monde ici saura que{DisgustA}Lee Everett est un tueur. {AngryB}Et je ne parle pas de ces CHOSES là-dehors.
+{HappyA}Bien. {AngryB}Tenez-vous loin d'elle; sinon {AngryA}tout le monde ici saura que{DisgustA}Lee Everett est un tueur. {AngryB}Et je ne parle pas de ces CHOSES là-dehors.
 42)  LARRY
 {HappyA}Là encore, je ne m'attendrais pas à ce qu'un {DisgustA}meurtrier condamné écoute quoi que ce soit qu'on ait à lui dire.
 43)  LARRY
@@ -95,9 +95,9 @@ Sinon tout le monde ici saura que Lee Everett est un meurtrier.
 47)  LARRY
 {DisgustA} Vous m'entendez ?
 48)  LARRY
-{AngryA}Eh bien il l'a fait parce qu'il savait que Lee Everett est un {AngryB}meurtrier condamné ; {AngryA}et tout le monde le saura si vous vous approchez d'elle.
+{AngryA}Eh bien il l'a fait parce qu'il savait que Lee Everett est un {AngryB}meurtrier condamné; {AngryA}et tout le monde le saura si vous vous approchez d'elle.
 49)  LARRY
-Eh bien la raison à intérêt à être "non."
+Eh bien la raison a intérêt à être "non."
 51)  LILLY
 {body-HoldWrist}{HappyC} {body-B}Mon papa serait mort sans toi.
 52)  LEE
@@ -111,7 +111,7 @@ Eh bien la raison à intérêt à être "non."
 56)  KENNY
 {body-A}{HappyB}J'espère que c'est le son de notre victoire.
 57)  LEE
-{ThinkingB} {body-C2}Je n'sais pas...
+{ThinkingB} {body-C2}Je ne sais pas...
 58)  KENNY
 {HappyB} Nous avons des lits, nous avons de l'eau et, le plus important, {body-B}{HappyA}nous avons de la lumière.  {ThinkingA} Il y a pire comme logement.
 59)  LILLY
@@ -147,7 +147,7 @@ Ca pourrait être une bonne idée d'aller prendre des nouvelles de Doug.
 73)  
 Elle vous aimait bien elle aussi.
 74)  
-Je suis navre.
+Je suis navré.
 75)  
 Vous vous en sortirez.
 111)  
@@ -179,9 +179,9 @@ Qu'y a-t-il, mon pote ?
 87)  LEE
 {NormalD}J'allais vous aider tous les deux...
 88)  
-Je n'l'ai pas fait.
+Je ne l'ai pas fait.
 123)  
-Je n'l'ai pas fait.
+Je ne l'ai pas fait.
 89)  
 Vous aviez l'air d'avoir besoin d'aide.
 90)  
@@ -193,9 +193,9 @@ J'allais vous aider tous les deux.
 92)  DOUG
 {SadA}Oh.
 93)  LEE
-Mais ce n'était pas un choix comme ça. {ThinkingA}C'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je n'sais pas pourquoi.
+Mais ce n'était pas un choix comme ça. {ThinkingA}C'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je ne sais pas pourquoi.
 129)  LEE
-Mais ce n'était pas un choix comme ça. {ThinkingA}C'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je n'sais pas pourquoi.
+Mais ce n'était pas un choix comme ça. {ThinkingA}C'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je ne sais pas pourquoi.
 94)  DOUG
 {NormalC}Oh, je crois que ça fait sens.
 95)  DOUG
@@ -229,7 +229,7 @@ Je n'arrête pas de penser à Doug. {ThinkingA}Nous n'aurions pas pu le sauver, he
 109)  
 Eh bien, je suis SUR qu'il vous aimait bien lui aussi.
 110)  
-Je suis navre, Carley.
+Je suis navré, Carley.
 112)  CARLEY
 [trying to make light of a tragic situation] {HappyC}Ha, il a INTERET.
 113)  CARLEY
@@ -297,7 +297,7 @@ Mais vous {NormalB}pouvez prendre soin d'elle. {body-A} Bon sang, {HappyB}peut-ê
 149)  LEE
 {body-C}{HappyA}Merci Kenny
 150)  LEE
-{ThinkingB}{body-C} Que ses parents se pointent ? {SadA}{body-C2}Non, j'crois pas.
+{ThinkingB}{body-C} Que ses parents se pointent ? {SadA}{body-C2}Non, je ne crois pas.
 151)  LEE
 {NormalB}Ouais.
 152)  KENNY
@@ -315,7 +315,7 @@ Mais vous {NormalB}pouvez prendre soin d'elle. {body-A} Bon sang, {HappyB}peut-ê
 157)  KENNY
 {body-HandsHips}{ThinkingA}Je crois que vous savez ce que vous faites.
 158)  KENNY
-{NormalC}Avec Clementine, j'entends. {NormalB} {body-A}Plus tôt, vous avez dit que vous étiez désemparé. Je veux juste que vous sachiez que quand je {ThinkingA}vous regarde, je vois le type du gars qui {HappyA}comprend les choses. {HappyB}{body-B}Cette fille va très bien s'en sortir.
+{NormalC}Avec Clémentine, j'entends. {NormalB} {body-A}Plus tôt, vous avez dit que vous étiez désemparé. Je veux juste que vous sachiez que quand je {ThinkingA}vous regarde, je vois le type de gars qui {HappyA}comprend les choses. {HappyB}{body-B}Cette fille va très bien s'en sortir.
 159)  KENNY
 Y'a pas d'quoi.
 164)  KENNY
@@ -407,7 +407,7 @@ Lee était sur le point de vous écraser la cervelle !
 204)  GLENN
 [hushed] Quoi qu'il en soit, j'allais de pièce en pièce et quand je suis arrivé à celle-là, là-haut dans le coin, j'ai entendu crier de l'autre côté de la porte.
 205)  CARLEY
-[hushed] Veinard ; maintenant allons-y !
+[hushed] Veinard; maintenant allons-y !
 206)  GLENN
 [hushed] On n'peut pas la laisser comme ça.
 207)  CARLEY
@@ -425,15 +425,15 @@ Glenn a raison, il faut l'aider.
 213)  GLENN
 [hushed] Mais elle est juste là-dedans, toute seule.
 214)  LEE
-[hushed] Ca n'en vaut pas la peine, Glenn. Elle est en sécurité, ils n'peuvent pas l'atteindre.
+[hushed] Ca n'en vaut pas la peine, Glenn. Elle est en sécurité, ils ne peuvent pas l'atteindre.
 215)  CARLEY
 [hushed] Allons-y, les gars.
 216)  GLENN
 [hushed] On va vraiment le faire ? Nous allons la laisser ?
 217)  
-Glen a raison ; il faut qu'on l'aide.
+Glen a raison; il faut qu'on l'aide.
 218)  
-Vous avez raison, Carley ; il faut qu'on y retourne.
+Vous avez raison, Carley; il faut qu'on y retourne.
 219)  
 Nous pourrions inspecter les alentours une minute.
 220)  GLENN
@@ -441,7 +441,7 @@ Nous pourrions inspecter les alentours une minute.
 221)  LEE
 [hushed] Oui, tant mieux pour nous.
 222)  
-Oui ; il faut qu'on y retourne.
+Oui; il faut qu'on y retourne.
 223)  
 Très bien, vous avez raison. Allons l'aider.
 224)  GLENN
@@ -449,7 +449,7 @@ Très bien, vous avez raison. Allons l'aider.
 225)  GLENN
 [hushed, angry] On y va.
 226)  LEE
-[Hushed] Ouais, Glenn. Je suis désolé, on doit y retourner maintenant que t'es OK.
+[Hushed] Ouais, Glenn. Je suis désolé, on doit y retourner maintenant que t'es ok.
 227)  CARLEY
 [hushed] C'est pour le mieux.
 228)  CARLEY
@@ -461,11 +461,11 @@ Très bien, vous avez raison. Allons l'aider.
 231)  CARLEY
 [hushed] Si on le fait, qu'on le fasse bien.
 232)  GLENN
-[hushed] OK, alors elle est enfermée dans cette pièce là-haut. Moi je dis : nous montons là-haut aussi silencieusement que possible, on la sort de là et on reviens l'embarquer dans ma voiture.
+[hushed] OK, alors elle est enfermée dans cette pièce là-haut. Moi je dis : nous montons là-haut aussi silencieusement que possible, on la sort de là et on revient l'embarquer dans ma voiture.
 233)  CARLEY
 [hushed] Plus les deux en face de la porte.
 234)  LEE
-[talking through a door] Si vous nous ouvrez, nous pourrons nous emmener dans un endroit plus sûr. Nous avons un groupe en ville.
+[talking through a door] Si vous nous ouvrez, nous pourrons vous emmener dans un endroit plus sûr. Nous avons un groupe en ville.
 235)  GLENN
 Elle est en danger !
 236)  LEE
@@ -513,7 +513,7 @@ Je ne veux pas de ça. Ce n'est pas chrétien. Je vous en prie, laissez-moi, s'il-
 256)  LEE
 Calmons-nous. Ca ira.
 257)  
-OK, on s'en va.
+Ok, on s'en va.
 258)  
 Venez avec nous, nous trouverons de l'aide.
 259)  
@@ -521,7 +521,7 @@ Et si vous vous transformez et que vous nous poursuivez ?
 260)  
 ...
 261)  LEE
-OK, on s'en va. Essayez simplement de prendre soin de vous, quel que soit le temps qui vous reste.
+Ok, on s'en va. Essayez simplement de prendre soin de vous, quel que soit le temps qui vous reste.
 262)  LEE
 Venez avec nous et nous vous trouverons de l'aide.
 263)  LEE
@@ -641,15 +641,15 @@ C'est pas vraiment ce que j'avais en tête.
 320)  CARLEY
 [pickup1] Mais le bruit...
 321)  LEE
-Contentez-vous de suivre mes instructions ; restez bien derrière moi.
+Contentez-vous de suivre mes instructions; restez bien derrière moi.
 322)  LEE
 Prenez votre arme personnelle.
 323)  GLENN
 [hushed, over-excited] C'est un truc de malade !
 324)  LEE
-Je vais fracasser la cervelle à ce gars.
+Je vais fracasser la cervelle de ce gars.
 409)  LEE
-Je vais fracasser la cervelle à ce gars.
+Je vais fracasser la cervelle de ce gars.
 325)  GLENN
 Ca pourrait attirer l'attention.
 407)  GLENN
@@ -671,7 +671,7 @@ Lee ! Derrière vous !
 412)  LEE
 [a "i just got bitten on the neck" scream]
 330)  LEE
-C'est exactement ce que je pensais. [with a wink]
+C'est exactement ce à quoi je pensais. [with a wink]
 331)  GLENN
 Ca fracasserait un cerveau comme il faut.
 332)  LEE
@@ -709,15 +709,15 @@ Rebroussons chemin.
 359)  LEE
 Rebroussons chemin.
 346)  
-Je m'excuse, OK ?
+Je m'excuse, ok ?
 347)  
 Elle va probablement s'en sortir.
 352)  LEE
 Elle va probablement s'en sortir.
 348)  
-Faudra faire avec, OK ?
+Faudra faire avec, ok ?
 358)  LEE
-Faudra faire avec, OK ?
+Faudra faire avec, ok ?
 350)  GLENN
 Peu importe.
 351)  LEE
@@ -727,7 +727,7 @@ Ouais, je suis sûr qu'elle est juste sortie de la pièce faire un tour, pas de so
 356)  GLENN
 Purée, mec.
 357)  LEE
-J'ai dit qu'il faudra faire avec. Vous pouvez pas aider tout l'monde. On a des compagnons au drugstore qui ont davantage besoin de nous qu'elle.
+J'ai dit qu'il faudra faire avec. Vous ne pouvez pas aider tout le monde. On a des compagnons au drugstore qui ont davantage besoin de nous qu'elle.
 360)  LEE
 Deux de plus.
 361)  GLENN
@@ -743,9 +743,9 @@ Rahh MERDE !
 366)  CARLEY
 [pickup1] Eh, regardez, on n'sait pas ce qui se passe là-haut. Je vote moi aussi pour qu'on rentre.
 368)  LILLY
-{body-HoldWrist}{HappyA}Hé, Lee ; vous avez une seconde ?
+{body-HoldWrist}{HappyA}Hé, Lee; vous avez une seconde ?
 369)  LILLY
-{body-HoldWrist}{HappyA}Hé, Lee ; vous avez une seconde ?
+{body-HoldWrist}{HappyA}Hé, Lee; vous avez une seconde ?
 370)  LEE
 {HappyA}On va essayer.
 371)  GLENN
@@ -787,7 +787,7 @@ Rentrons.
 389)  GLENN
 Chanmé.
 390)  LEE
-On pourrait faire quelque chose avec cette voiture, je suppose, s'il n'y avait pas ce gusse qui rôde devant.
+On pourrait faire quelque chose avec cette voiture, je suppose, s'il n'y avait pas ce gus qui rôde devant.
 391)  LEE
 Il n'ira nulle part.
 392)  LEE
@@ -869,7 +869,7 @@ Je n'sais pas Glenn, il faut qu'on bouge.
 436)  LEE
 [pickup1] [hushed, sharp] Couvrez-moi.
 437)  LEE
-[pickup1][hushed] On devrait probablement pas aller par là.
+[pickup1][hushed] On ne devrait probablement pas aller par là.
 438)  LEE
 [pickup1][hushed] La route n'est pas sure.
 439)  LEE

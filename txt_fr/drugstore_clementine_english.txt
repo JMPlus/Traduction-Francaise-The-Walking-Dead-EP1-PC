@@ -15,7 +15,7 @@ Topic in sequence
 8)  
 Je peux faire quelque chose ?
 9)  
-On devrait apprendre à ce connaître.
+On devrait apprendre à se connaître.
 10)  LEE
 {ThinkingB}{body-F}Tu veux quelque chose ?
 11)  CLEMENTINE
@@ -55,7 +55,7 @@ Exit
 29)  
 Comment va ton doigt ?
 30)  
-Je sais que je suis pas ton père...
+Je sais que je ne suis pas ton père...
 31)  LEE
 {SadA}{Body-F}Comment va ton doigt ? Clem ?
 32)  CLEMENTINE
@@ -63,7 +63,7 @@ Je sais que je suis pas ton père...
 33)  LEE
 {HappyA}Bien.
 34)  LEE
-{SadC}{Body-F}Je sais que je suis pas ton père... mais {SadB}Si tu as besoin de n'importe quoi. Je suis ton homme, d'accord ?
+{SadC}{Body-F}Je sais que je ne suis pas ton père... mais {SadB}Si tu as besoin de n'importe quoi. Je suis ton homme, d'accord ?
 35)  CLEMENTINE
 {sadB}Pareil pour moi.
 36)  LEE
@@ -85,7 +85,7 @@ Nan.
 43)  CLEMENTINE
 Mmhmm.
 44)  LEE
-{SadA}{Body-F}C'est pas grand chose, {HappyA}mais voilà, Clem.
+{SadA}{Body-F}Ce n'est pas grand chose, {HappyA}mais voilà, Clem.
 45)  CLEMENTINE
 {NormalC}Merci.
 46)  LEE
@@ -95,7 +95,7 @@ An
 49)  
 Je suis désolé pour votre radio.
 50)  LEE
-{NormalC}Peut-être nous pourrons vous en trouver une autre {ThinkingA}ou autre chose...
+{NormalC}Peut-être que nous pourrons vous en trouver une autre {ThinkingA}ou autre chose...
 51)  LEE
 {SadB}{body-F}Je suis désolé pour votre radio.
 52)  CLEMENTINE

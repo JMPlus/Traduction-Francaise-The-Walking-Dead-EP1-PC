@@ -29,7 +29,7 @@ Désolé. {AngryA}Je veux dire, les gens qui possèdent cet endroit. {SadA}Des gens
 14)  
 Quelle est votre prochaine étape ?
 15)  GLENN
-{NormalA}{Body-StandA}Je sais pas. Je veux dire, {HappyB}vous autres avez l'air sympa.
+{NormalA}{Body-StandA}Je ne sais pas. Je veux dire, {HappyB}vous autres avez l'air sympa.
 16)  LEE
 {ThinkingB}{Body-C}Vous voulez simplement vous tirer d'ici et guérir, je veux dire {SadA}sauver les gens ou quoi que ce soit que vous puissiez faire.
 17)  LEE
@@ -57,7 +57,7 @@ Sortir
 28)  GLENN
 {HappyA}{Body-StandA}C'est cool. Pas trop d'appétit. {SadA}Je vais peut-être en garder pour un des gamins ?
 29)  LEE
-{NormalB}Ici, j'ai trouvé des amuse-gueule.
+{NormalB}Ici, j'ai trouvé des amuse-gueules.
 30)  
 A propos de ce qui s'était passé là-bas...
 32)  
@@ -95,7 +95,7 @@ C'est dingue.
 57)  
 C'est dingue.
 44)  LEE
-[to the group] {NormalC}Hé, les gars ; je sais que ça paraît fou, {ThinkingA}mais Glenn et moi on s'absente pendant une minute. {ThinkingB}Nous avons besoin d'une hache si nous allons aider Larry.
+[to the group] {NormalC}Hé, les gars; je sais que ça paraît fou, {ThinkingA}mais Glenn et moi on s'absente pendant une minute. {ThinkingB}Nous avons besoin d'une hache si nous voulons aider Larry.
 45)  LEE
 [to Clementine] {SadA}On sera prudents. {HappyA}On revient tout de suite.
 56)  LEE
@@ -119,7 +119,7 @@ Il y a une hache au motel ?
 51)  GLENN
 {SurprisedA}{Body-StandA}Ouais ! Allons la prendre !
 53)  LEE
-[to the group] {NormalC} Hé, les gars ; je sais que ça paraît fou, {ThinkingA}mais Glenn et moi on s'absente pendant une minute. {ThinkingB}Nous avons besoin d'une hache si nous allons aider Larry.
+[to the group] {NormalC} Hé, les gars; je sais que ça paraît fou, {ThinkingA}mais Glenn et moi on s'absente pendant une minute. {ThinkingB}Nous avons besoin d'une hache si nous voulons aider Larry.
 62)  GLENN
 {SadB} Allez, on peut y arriver !
 63)  LEE

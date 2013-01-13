@@ -5,7 +5,7 @@
 3)  LILLY
 [pickup1]{normalC}Lilly. {thinkingA}Mon père Larry.
 4)  LILLY
-{angryA}Je crois pas connaitre votre nom.
+{angryA}Je ne crois pas connaitre votre nom.
 5)  LEE
 {normalD}{body-f}Comment va t-il ?
 6)  LEE
@@ -19,9 +19,9 @@
 9)  LILLY
 {HappyD}Génial ! Bon dieu, vous êtes surprenant.
 10)  LEE
-{HappyC}J'ai les clés
+{HappyC}J'ai les clés.
 12)  LEE
-{SadB}Ouais, c'est pas vraiment une bonne solution pour le moment.
+{SadB}Ouais, ce n'est pas vraiment une bonne solution pour le moment.
 13)  LEE
 {sadA}Quel est son problème ?
 14)  LILLY
@@ -51,15 +51,15 @@ Il a un sale caractère.
 25)  LEE
 [Whisper, intimate convo distance]{ThinkingA}Nous avons des enfants ici, {SadA}des familles.
 26)  LEE
-{SadB}Je dis juste que certaines personnes supportent mal un caractère comme ça. {AngryA}Bordel, ça vous semble ce que vous feriez ?
+{SadB}Je dis juste que certaines personnes supportent mal un caractère comme ça. {AngryA}Bordel, il semble que vous y arriviez.
 27)  
 Nous avons des enfants ici. Des familles.
 28)  LILLY
 {NormalC}Il l'est. Il a juste {SadA}ses raisons.
 29)  LEE
-{NormalA}Bref, passons, {HappyA}Je n'doute pas que c'est un gars bien.
+{NormalA}Bref, passons, {HappyA}Je ne doute pas que c'est un gars bien.
 30)  
-Bref, passons, je n'doute pas que c'est un gars bien
+Bref, passons, je ne doute pas que c'est un gars bien
 32)  
 Vous êtes d'ici ?
 33)  LEE
@@ -71,7 +71,7 @@ Vous êtes d'ici ?
 36)  LEE
 {ThinkingA}Vous êtes du coin ?
 37)  LILLY
-{HappyA}Et vous?
+{HappyA}Et vous ?
 38)  LILLY
 {ThinkingA}Je travaille à Warner Robbins. {NormalA}La base militaire aérienne.
 39)  
@@ -87,7 +87,7 @@ Il y avait quelqu'un quand vous êtes arrivés ici ?
 44)  LEE
 {SadA}Ouais, les propriétaires. C'étaient... {FearA}{SadB}Nous étions proches.
 45)  LEE
-{FearA}Il y avait quelqu'un quand vous êtes arrivé ici ?{FearB}
+{FearA}Il y avait quelqu'un quand vous êtes arrivés ici ?{FearB}
 46)  LILLY
 {ThinkingA}Vous connaissiez quelqu'un ici ?
 47)  LILLY
@@ -95,13 +95,13 @@ Il y avait quelqu'un quand vous êtes arrivés ici ?
 48)  LEE
 {NormalA}A Savannah, {ThinkingA}je crois...
 49)  LILLY
-{NormalB}Oh, {THinkingB}vous n'êtes pas ensemble ?
+{NormalB}Oh, {THinkingB}vous n'êtes pas ensembles ?
 50)  LEE
-[pickup1][pauses important ]{NormalD}Oh, non, {ThinkingA}je suis pas son père. {SadA}Je l'ai trouvé dans une maison quand je suis parti d'Atlanta. Elle a survecu{SadB} toute seule.
+[pickup1][pauses important ]{NormalD}Oh, non, {ThinkingA}je ne suis pas son père. {SadA}Je l'ai trouvé dans une maison quand je suis parti d'Atlanta. Elle a survécu{SadB} toute seule.
 51)  LEE
-[pickup1] [quiet, intimate convo distance][pauses important] {FearA}J'ai entendu un message demandant de l’aide, ils étaient à Savannah. {SadA}Elle était chez elle avec une nounou. {SadC}C'était pas génial.
+[pickup1] [quiet, intimate convo distance][pauses important] {FearA}J'ai entendu un message demandant de l'aide, ils étaient à Savannah. {SadA}Elle était chez elle avec une nounou. {SadC}Ce n'était pas génial.
 52)  LEE
-[quiet, intimate convo distance] {SadC}Je penses que les parents de la petite ne s'en sont pas sortis.
+[quiet, intimate convo distance] {SadC}Je pense que les parents de la petite ne s'en sont pas sortis.
 53)  LILLY
 [intimate convo] {sadA}Bien, {HappyA}elle a de la chance de vous avoir.
 54)  LILLY
@@ -109,9 +109,9 @@ Il y avait quelqu'un quand vous êtes arrivés ici ?
 55)  
 Quand pensez vous que l'armée va arriver pour gérer ça ?
 56)  LILLY
-{SadB}Mon dieu, je sais pas {NormalC}J'étais pas au travail quand papa et moi sommes venus ici pour chercher de l'aide. {ThinkingB}Ils ont sorti les jets il y a quelques jours. {FearA}Et je ne vois rien de différent maintenant.
+{SadB}Mon dieu, je ne sais pas {NormalC}Je n'étais pas au travail quand papa et moi sommes venus ici pour chercher de l'aide. {ThinkingB}Ils ont sorti les jets il y a quelques jours. {FearA}Et je ne vois rien de différent maintenant.
 57)  LEE
-{THinkingB}Quand les militaires vont venir s'occuper de ça?
+{THinkingB}Quand les militaires vont-ils venir s'occuper de ça ?
 58)  LEE
 {FearA}Donc vous dites que les militaires sont en train d'essayer ou ont {FearB}déjà essayé ?
 59)  LILLY
@@ -149,9 +149,9 @@ Sortie
 76)  LILLY
 {ThinkingA}Essayez de trouver ces clés, Lee. {SadB}Il pourrait s'affaiblir rapidement.
 77)  LEE
-{HappyA}C'est pas beaucoup mais voilà.
+{HappyA}Ce n'est pas beaucoup mais voilà.
 78)  LILLY
-{ThinkingA}Vous êtes sur ?
+{ThinkingA}Vous êtes sûr ?
 79)  LEE
 {HappyA}Ouais. Vous êtes un peu stressée.
 80)  LILLY
@@ -161,7 +161,7 @@ Sortie
 82)  LEE
 [pickup1]Eh, la fillette est toujours coincée.
 83)  LILLY
-[pickup1] Une manière de prendre soin des choses, avant de -- de lutter avec ces connards autour avec la radio.
+[pickup1] Une manière de prendre soin des choses, avant de -- de lutter avec ces connards autour de la radio.
 84)  LILLY
 [pickup1] Vous ne pouvez pas tout faire.
 92)  LILLY
@@ -187,23 +187,23 @@ Sortie
 90)  LEE
 [pickup1] [cutting her off]Allez, peu importe, oubliez ça.
 93)  LILLY
-[pickup1] Cette bagarre entre mon père et votre type était un spectacle merdique.
+[pickup1]Cette bagarre entre mon père et votre type était un spectacle merdique.
 94)  LILLY
-[pickup1]Mais vous vous êtes assuré que ces gars là n’avaient pas fait un truc stupide avec la radio.
+[pickup1]Mais vous vous êtes assuré que ces gars là n'avaient pas fait un truc stupide avec la radio.
 95)  LEE
-[pickup1]Ouais, j'ai vu jusqu'où ç'a été.
+[pickup1]Ouais, j'ai vu jusqu'où ça a été.
 98)  LEE
 [pickup1]C'est clair. Mais j'aurais dû conserver mon attention sur la petite.
 99)  LEE
 [pickup1]Qu'est ce qui vous fait dire ça ?
 100)  LILLY
-[pickup1] Cet endroit entier devenait dangereux .  Cette petite fille était en danger.
+[pickup1] Cet endroit entier devenait dangereux. Cette petite fille était en danger.
 101)  LILLY
 [pickup1] [a little sarcastic]Vous n'aimez pas vous embêter de trop de choses, hmmm ?
 103)  LEE
 [pickup1] Vous ne pouvez pas tout contrôler même si vous essayez.
 104)  LEE
-{HappyC}J’ai les clés.
+{HappyC}J'ai les clés.
 106)  LILLY
 {HappyD}Génial ! Bon dieu vous êtes surprenant.
 107)  LEE
@@ -219,7 +219,7 @@ CONNERIES également.
 110)  LILLY
 [pickup1] {thinkingA}Vous n'aviez pas à me traiter {angryB}de salope devant les miens.
 111)  LILLY
-[pickup1] {angryC}J'ai pas besoin de ce genre de merde, OK ? C'est {sadA}assez difficile de s'occuper de la vie des gens {angryB}sans qu'en plus un crétin me diminue.
+[pickup1] {angryC}Je n'ai pas besoin de ce genre de merde, ok ? C'est {sadA}assez difficile de s'occuper de la vie des gens {angryB}sans qu'en plus un crétin me diminue.
 114)  LILLY
 [pickup1] {sadB}Maintenant son coeur fait encore des siennes, et {fearA}je suis incapable de faire quoi que ce soit.
 115)  LILLY
@@ -235,4 +235,4 @@ Parler à
 120)  
 Donner Nourriture à
 121)  LILLY
-[pickup1][pissed] Je vais retourner près de lui.
+[pickup1][pissed]Je vais retourner près de lui.

@@ -1,7 +1,7 @@
 1)  KENNY
-{AngryA}Avec cette alarme{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}jusqu'à ce que tout les [ZOMBIE] de Macon {AngryA} soient à notre porte. {NormalA}Je vais rapprocher le pickup.
+{AngryA}Avec cette alarme{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}avant que tous les [ZOMBIE] de Macon {AngryA} soient à notre porte. {NormalA}Je vais rapprocher le pickup.
 19)  KENNY
-{AngryA}Avec cette alarme{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}jusqu'à ce que tout les [ZOMBIE] de Macon {AngryA} soient à notre porte. {NormalA}Je vais rapprocher le pickup.
+{AngryA}Avec cette alarme{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}avant que tous les [ZOMBIE] de Macon {AngryA} soient à notre porte. {NormalA}Je vais rapprocher le pickup.
 2)  LILLY
 {AngryB}Faites vite, {FearA} Je dois faire sortir mon père d'ici.
 14)  LILLY
@@ -121,11 +121,11 @@
 460)  CARLEY
 [Exerting herself] {NormalC}On peut tenir la porte. {AngryC}Allez là-bas et assurez-vous qu'ils ne passent pas !
 29)  DOUG
-[Mustering the courage] {ThinkingA}OK.
+[Mustering the courage] {ThinkingA}Ok.
 307)  DOUG
-[Mustering the courage] {ThinkingA}OK.
+[Mustering the courage] {ThinkingA}Ok.
 461)  DOUG
-[Mustering the courage] {ThinkingA}OK.
+[Mustering the courage] {ThinkingA}Ok.
 30)  LEE
 Bon d'accord...
 133)  LEE
@@ -309,23 +309,23 @@ LEE...Je n'ai plus de balles ! Le chargeur est par terre ! AIDEZ-MOI !
 387)  CARLEY
 {SadA}Ils ont eu Doug... {FearB}Ils... Ils...
 58)  LARRY
-{AngryA}Tant pis, {AngryB}vous devez AVANCER.
+{AngryA}Tant pis, {AngryB}vous devez avancer.
 59)  LARRY
-{AngryA}Tant pis, {AngryB}vous devez AVANCER.
+{AngryA}Tant pis, {AngryB}vous devez avancer.
 234)  LARRY
-{AngryA}Tant pis, {AngryB}vous devez AVANCER.
+{AngryA}Tant pis, {AngryB}vous devez avancer.
 236)  LARRY
-{AngryA}Tant pis, {AngryB}vous devez AVANCER.
+{AngryA}Tant pis, {AngryB}vous devez avancer.
 386)  LARRY
-{AngryA}Tant pis, {AngryB}vous devez AVANCER.
+{AngryA}Tant pis, {AngryB}vous devez avancer.
 389)  LARRY
-{AngryA}Tant pis, {AngryB}vous devez AVANCER.
+{AngryA}Tant pis, {AngryB}vous devez avancer.
 60)  DOUG
-{FearC}	Ils ont eu Carley!
+{FearC}	Ils ont eu Carley !
 237)  DOUG
-{FearC}	Ils ont eu Carley!
+{FearC}	Ils ont eu Carley !
 388)  DOUG
-{FearC}	Ils ont eu Carley!
+{FearC}	Ils ont eu Carley !
 61)  LARRY
 Ce fils de pute ne vient pas avec nous.
 164)  LARRY
@@ -473,21 +473,21 @@ Lee, venez tenir la porte !
 263)  GLENN
 Lee, venez tenir la porte !
 76)  GLENN
-Nous pouvons pas les laisser entrer !
+Nous ne pouvons pas les laisser entrer !
 177)  GLENN
-Nous pouvons pas les laisser entrer !
+Nous ne pouvons pas les laisser entrer !
 195)  GLENN
-Nous pouvons pas les laisser entrer !
+Nous ne pouvons pas les laisser entrer !
 264)  GLENN
-Nous pouvons pas les laisser entrer !
+Nous ne pouvons pas les laisser entrer !
 80)  LEE
-Clémentine ! Tu peux aller chercher quelque chose à coinçer entre les poignées ! Quelque chose de solide, d'accord ?!
+Clémentine ! Tu peux aller chercher quelque chose à coincer entre les poignées ! Quelque chose de solide, d'accord ?!
 272)  LEE
-Clémentine ! Tu peux aller chercher quelque chose à coinçer entre les poignées ! Quelque chose de solide, d'accord ?!
+Clémentine ! Tu peux aller chercher quelque chose à coincer entre les poignées ! Quelque chose de solide, d'accord ?!
 424)  LEE
-Clémentine ! Tu peux aller chercher quelque chose à coinçer entre les poignées ! Quelque chose de solide, d'accord ?!
+Clémentine ! Tu peux aller chercher quelque chose à coincer entre les poignées ! Quelque chose de solide, d'accord ?!
 600)  LEE
-Clémentine ! Tu peux aller chercher quelque chose à coinçer entre les poignées ! Quelque chose de solide, d'accord ?!
+Clémentine ! Tu peux aller chercher quelque chose à coincer entre les poignées ! Quelque chose de solide, d'accord ?!
 81)  CLEMENTINE
 [under duress] {FearB}D'accord !
 273)  CLEMENTINE
@@ -581,11 +581,11 @@ Soyez prudent !
 420)  GLENN
 {AngryA}Lee, venez tenir la porte !
 94)  GLENN
-{FearB}	Nous pouvons pas les laisser entrer !
+{FearB}	Nous ne pouvons pas les laisser entrer !
 269)  GLENN
-{FearB}	Nous pouvons pas les laisser entrer !
+{FearB}	Nous ne pouvons pas les laisser entrer !
 421)  GLENN
-{FearB}	Nous pouvons pas les laisser entrer !
+{FearB}	Nous ne pouvons pas les laisser entrer !
 95)  CARLEY
 {FearB}Ces choses ne s'arrêtent jamais...
 219)  CARLEY
@@ -685,11 +685,11 @@ Ca va ?
 463)  LEE
 [under duress]{FearB} Cherchez quelque chose à mettre entre ces poignées !
 111)  LEE
-[under duress, to self] {NormalD}Cela devrait être assez solide pour retenir ces choses.
+[under duress, to self] {NormalD}Ca devrait être assez solide pour retenir ces choses.
 244)  LEE
-[under duress, to self] {NormalD}Cela devrait être assez solide pour retenir ces choses.
+[under duress, to self] {NormalD}Ca devrait être assez solide pour retenir ces choses.
 396)  LEE
-[under duress, to self] {NormalD}Cela devrait être assez solide pour retenir ces choses.
+[under duress, to self] {NormalD}Ca devrait être assez solide pour retenir ces choses.
 112)  LEE
 [under duress] {AngryA}Comment les fenêtres sont barricadées ?
 227)  LEE
@@ -709,13 +709,13 @@ Ca va ?
 381)  LEE
 [under duress][stern] {AngryC}NON. J'en sais rien, en fait.
 115)  KENNY
-Avec cette alarme nous n'avons pas beaucoup de temps jusqu'à ce que tous les [ZOMBIE] de Macon soient à notre porte. Je vais ramener le camion .
+Avec cette alarme nous n'avons pas beaucoup de temps avant que tous les [ZOMBIE] de Macon soient à notre porte. Je vais ramener le camion.
 116)  LILLY
 Faites vite, {FearA} Je dois faire sortir mon père d'ici.
 117)  KENNY
 Je ne compte pas tergiverser.
 118)  KENNY
-Chérie, ammène Duck dans le bureau et barricader la porte derrière moi. Glenn, quand vous m'entendrez klaxonner dans la ruelle, commencez à faire sortir les gens.
+Chérie, ammène Duck dans le bureau et barricadez la porte derrière moi. Glenn, quand vous m'entendrez klaxonner dans la ruelle, commencez à faire sortir les gens.
 119)  GLENN
 Pigé.
 120)  KENNY
@@ -739,7 +739,7 @@ Je ne sais pas si ces planches vont tenir encore longtemps...
 129)  CARLEY
 [Exerting herself] On peut tenir la porte. Allez là-bas et assurez-vous qu'ils ne passent pas !
 130)  DOUG
-[Mustering the courage] OK.
+[Mustering the courage] Ok.
 132)  CARLEY
 [focused, stern] J'y vais.
 134)  KATJAA
@@ -793,7 +793,7 @@ La porte !
 181)  CLEMENTINE
 [under duress] D'accord !
 182)  LEE
-Clémentine ! Tu peux aller chercher quelque chose à coinçer entre-deux poignées ! Quelque chose de solide, d'accord ?!
+Clémentine ! Tu peux aller chercher quelque chose à coincer entre les deux poignées ! Quelque chose de solide, d'accord ?!
 184)  CLEMENTINE
 Je cherche !
 185)  CLEMENTINE
@@ -847,9 +847,9 @@ Aidez-nous !
 441)  DOUG
 {AngryA}Venez
 302)  KENNY
-{AngryA}Avec cette alarme,{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}jusqu'à ce que tout les zombies de Macon {AngryA} soient à notre porte. {NormalA}Je vais ramener le camion.
+{AngryA}Avec cette alarme,{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}avant que tous les zombies de Macon {AngryA} soient à notre porte. {NormalA}Je vais ramener le camion.
 446)  KENNY
-{AngryA}Avec cette alarme,{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}jusqu'à ce que tout les zombies de Macon {AngryA} soient à notre porte. {NormalA}Je vais ramener le camion.
+{AngryA}Avec cette alarme,{ThinkingA} nous n'avons pas beaucoup de temps {DisgustA}avant que tous les zombies de Macon {AngryA} soient à notre porte. {NormalA}Je vais ramener le camion.
 319)  LEE
 C'est la porte qui se verrouille de l'extérieur.
 471)  LEE
@@ -935,13 +935,13 @@ Plus tard.
 495)  LEE
 {AngryA}Jetons un coup d'oeil.
 336)  DOUG
-{HappyA}OK.
+{HappyA}Ok.
 344)  DOUG
-{HappyA}OK.
+{HappyA}Ok.
 487)  DOUG
-{HappyA}OK.
+{HappyA}Ok.
 496)  DOUG
-{HappyA}OK.
+{HappyA}Ok.
 338)  DOUG
 {AngryA}Très bien.
 347)  DOUG
@@ -967,17 +967,17 @@ Plus tard.
 493)  LEE
 {thinkingA}Qu'est-ce qu'on fait ?
 348)  LEE
-[to himself] Mon père avait l'habitude de garder tous les trucs cool sur l'étagère du haut.
+[to himself] Mon père avait l'habitude de garder tous les trucs cools sur l'étagère du haut.
 500)  LEE
-[to himself] Mon père avait l'habitude de garder tous les trucs cool sur l'étagère du haut.
+[to himself] Mon père avait l'habitude de garder tous les trucs cools sur l'étagère du haut.
 349)  LEE
 {ThinkingB}{body-b}Ca à l'air autant en sécurité que ça pouvait l'être.
 501)  LEE
 {ThinkingB}{body-b}Ca à l'air autant en sécurité que ça pouvait l'être.
 350)  DOUG
-Wow ! On vas pas retourner là-bas, j'ai pas pu fermer la porte.
+Wow ! On ne va pas retourner là-bas, je n'ai pas pu fermer la porte.
 502)  DOUG
-Wow ! On vas pas retourner là-bas, j'ai pas pu fermer la porte.
+Wow ! On ne va pas retourner là-bas, je n'ai pas pu fermer la porte.
 351)  LEE
 Bien.
 503)  LEE
@@ -1035,13 +1035,13 @@ Barricader la Porte
 509)  
 Aller à la Porte
 511)  DOUG
-[pickup2] Cette fenêtre est FOUTUE !
+[pickup2] Cette fenêtre est foutue !
 512)  CARLEY
-[pickup1] LEE! à l'aide ! Les munitions ! Dans mon sac!
+[pickup1] LEE! à l'aide ! Les munitions ! Dans mon sac !
 513)  CARLEY
 [pickup1] [shocked at zombie attacking Lee] Oh, merde !
 514)  LEE
-[pickup1] Qu'est-ce...? [zombie suddenly in his face] Oh, merde!
+[pickup1] Qu'est-ce...? [zombie suddenly in his face] Oh, merde !
 515)  LEE
 [pickup1] [just saved from zombie death] Doux Jésus...
 516)  DOUG
@@ -1059,7 +1059,7 @@ KATJAA C'EST LE 3 !!!!!
 522)  KENNY
 [pickup1] [arguing, yelling over alarm] Voyons, Glenn ! Vous savez que j'ai raison.
 523)  KENNY
-[pickup1] [good-humored, yelling over alarm] Eh bien, c'est souhaiter avec une main et de la merde dans l'autre...
+[pickup1] [good-humored, yelling over alarm] Eh bien, c'est souhaiter avec une main et emmerder avec l'autre...
 524)  GLENN
 [pickup1] [conceding, yelling over alarm] J'imagine, je veux dire c'est pas comme nous avions le choix à ce stade. Je venais plutôt pour que nous soyons unis, vous voyez ?
 525)  GLENN
@@ -1077,19 +1077,19 @@ Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 531)  LEE
 [pickup1] Regardez-moi. Qu'est-ce que vous en pensez ?
 532)  KENNY
-[pickup1] OK, le gros dur. Espérons que c'est vrai.
+[pickup1] Ok, le gros dur. Espérons que c'est vrai.
 533)  LEE
 [pickup1] Je vais faire de mon mieux.
 534)  KENNY
 [pickup1] Espérons que ce sera suffisant.
 535)  KENNY
-[pickup1] Eh bien peut-être que votre fille peut VOUS protéger alors.
+[pickup1] Eh bien peut-être que votre fille peut vous protéger alors.
 536)  LEE
 [pickup1] Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 537)  KATJAA
 [pickup1] [a little panicked] Duck, allez bébé, c'est le moment d'y aller.
 538)  KENNY
-[pickup1] Avec cette alarme ce sera pas bien long pour que tout les zombies soient à notre porte.
+[pickup1] Avec cette alarme, ce ne sera pas bien long pour que tous les zombies soient à notre porte.
 539)  KENNY
 [pickup1] Je vais ramener le camion.
 602)  KENNY
@@ -1097,13 +1097,13 @@ Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 540)  LEE
 [pickup1]Elle ira bien tant qu'elle restera près de moi.
 541)  KENNY
-[pickup1][to Clementine] Tu l'écoute, tu entends ?
+[pickup1][to Clementine] Tu l'écoutes, tu entends ?
 542)  CARLEY
 [pickup1] Glenn ! Doug ! Allons-y !
 543)  KENNY
 [pickup1] Je serai de retour aussi vite que possible !
 544)  CARLEY
-[pickup1] LEE ! L'étagère ! Trois d'entre nous peuvent tenir la porte !
+[pickup1] LEE ! L'étagère ! Trois d'entre-nous peuvent tenir la porte !
 545)  LEE
 [pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
 546)  LEE
@@ -1119,11 +1119,11 @@ Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 551)  GLENN
 [pickup1][offended, but in the heat of battle]Hé !
 552)  CARLEY
-[pickup1] BON BOULOT ! Nous pouvons utiliser nos forces à cette porte !
+[pickup1] BON BOULOT ! Nous pouvons utiliser nos forces sur cette porte !
 553)  DOUG
-[pickup1] La meilleurs manière !
+[pickup1] La meilleure manière !
 593)  DOUG
-[pickup1] La meilleurs manière !
+[pickup1] La meilleure manière !
 554)  LEE
 [pickup1][having just succeeded] On est bon ici !
 590)  LEE
@@ -1137,9 +1137,9 @@ Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 558)  LEE
 [pickup1][holding the door] Fermez-la, Doug !
 559)  DOUG
-[pickup1] [under duress] Hé, Lee... Si on devait pas s'en sortir, vous devez savoir que... Je pense que vous êtes un bon gars.
+[pickup1] [under duress] Hé, Lee... Si on ne devait pas s'en sortir, vous devez savoir que... Je pense que vous êtes un bon gars.
 560)  CARLEY
-[pickup1] Doug, si on devait ne pas s'en sortir, vous devez savoir que... [interupted]
+[pickup1] Doug, si on ne devait ne pas s'en sortir, vous devez savoir que... [interupted]
 561)  CARLEY
 [pickup1][under duress, holding the door] Hein ?!
 562)  DOUG
@@ -1157,7 +1157,7 @@ Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 568)  LEE
 [pickup1][pushing back against zombies, continual]
 569)  LEE
-[pickup1] CLEMENTINE! Tu as trouvé quelques chose ?!
+[pickup1] CLEMENTINE! Tu as trouvé quelque chose ?!
 570)  DOUG
 [pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
 571)  LEE
@@ -1181,7 +1181,7 @@ Surement pas. Il y a un tas de morts qui se promènent dans le coin.
 577)  DOUG
 [pickup1]Les gars, cette grille n'est plus fermée ! [oh shit!]
 578)  CARLEY
-[pickup1][panic] MERDE ! Je suis à sec ! Je suis à SEC !
+[pickup1][panic] MERDE ! Je suis à sec ! Je suis A SEC !
 579)  
 Remettre l'étagère sur la fenêtre
 580)  
@@ -1215,7 +1215,7 @@ Sac
 603)  LILLY
 [pickup1] Nous devons partir d'ici ! ET VITE !
 604)  KENNY
-[pickup1] [loud, over an alarm] Je compte pas lambiner.
+[pickup1] [loud, over an alarm] Je ne compte pas tergiverser.
 610)  KENNY
 [pickup1] Vous trois allez-y ! Je vais revenir aussi vite que possible !
 611)  CARLEY

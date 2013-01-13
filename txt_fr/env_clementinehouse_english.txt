@@ -105,7 +105,7 @@ Quel est ton nom ?
 209)  
 Quel est ton nom ?
 27)  CLEMENTINE
-[Walkie-talkie processed] Je m'appelle Clementine.
+[Walkie-talkie processed] Je m'appelle Clémentine.
 29)  LEE
 {happyA} C'est malin.
 43)  LEE
@@ -145,15 +145,15 @@ Et tu es toute seule ?
 130)  LEE
 Et tu es toute seule ?
 39)  LEE
-Quel age tu as ?
+Quel âge tu as ?
 53)  
-Quel age tu as ?
+Quel âge tu as ?
 129)  LEE
-Quel age tu as ?
+Quel âge tu as ?
 192)  
-Quel age tu as ?
+Quel âge tu as ?
 210)  
-Quel age tu as ?
+Quel âge tu as ?
 40)  CLEMENTINE
 [Walkie-talkie processed] Je sais pas. Quelques nuits. Je vais bien. Je veux juste que ma mère et mon père rentrent à la maison.
 41)  LEE
@@ -165,11 +165,11 @@ Ouais, je suis vivante.
 49)  
 Ca va ?
 51)  
-Ou es-tu ?
+Où es-tu ?
 55)  
-Ou es-tu ?
+Où es-tu ?
 52)  
-Ou sont tes parents ?
+Où sont tes parents ?
 54)  
 Tu es indemne ?
 56)  
@@ -249,8 +249,8 @@ Boire
 89)  LEE
 [Drinks a glass of water fast, dying of thirst] {happyB} Ah...
 90)  ITEMS TO DEFEND YOURSELF INCLUDE
-Bouteilles, des assiettes, des bols et un vase
-Hélas, le zombie finalement vous attrape et elle est au-dessus de vous -- hargneuse, la bile et le sang épais coulaient de sa bouche et dans vos yeux. Elle va vous mordre bientôt et puis tout sera fini.
+des bouteilles, des assiettes, des bols et un vase
+Hélas, le zombie finalement vous attrape et elle est au-dessus de vous -- hargneuse, la bile et le sang épais coulent de sa bouche et dans vos yeux. Elle va vous mordre bientôt et puis tout sera fini.
 Vous entendez la porte coulissante S'OUVRIR. Votre attention est attirée par Clémentine à la porte. Elle tient un MARTEAU.
 91)  ACTION
 Regarder
@@ -269,7 +269,7 @@ Ouvrir
 96)  ACTION
 Regarder (le fouillis)
 97)  ANSWERING MACHINE LADY
-Il y a TROIS nouveaux messages.
+Il y a trois nouveaux messages.
 98)  LEE
 {fearA} Ces personnes pourraient avoir besoin de plus d'aide que moi.
 99)  LEE
@@ -327,7 +327,7 @@ J'ai 37 ans.
 121)  LEE
 [talking to himself] {sadC} Quelqu'un a saigné à mort ici...
 122)  LEE
-{disgustA} Ou alors les gens finalement en ont eu marre des coupures budgétaire dans l'éducation publique et sont descendus dans les rues. {sadA} Ouais... et ces gars-là dans le bois étaient juste des Néo-conservateurs.
+{disgustA} Ou alors les gens finalement en ont eu marre des coupures budgétaires dans l'éducation publique et sont descendus dans les rues. {sadA} Ouais... et ces gars-là dans le bois étaient juste des néo-conservateurs.
 123)  LEE
 {fearA} RARH !! [hitting a zombie with a hammer]
 124)  LEE
@@ -393,7 +393,7 @@ Vase
 172)  LEE
 [a bunch of sounds of Lee whincing5]
 174)  LEE
-[zombie chasing you] {fearB} Partons!
+[zombie chasing you] {fearB} Partons !
 176)  CLEMENTINE
 J'ai trouvé quelque chose !
 177)  CLEMENTINE
@@ -427,7 +427,7 @@ Trois nouveaux messages.
 214)  ANSWERING MACHINE
 Premier Message. Laissé à 15:43.
 215)  MOM
-Hé, Sandra, c'est Diana. Nous sommes toujours à Savannah. Ed a eu un petit "incident" avec un mec bizarre à coté de l'hôtel, on a dû aller aux urgences pour passer quelques examens. Quoi qu'il en soit, il ne se sent pas assez bien pour revenir ce soir, on reste donc une journée supplémentaire. Un énorme merci pour vous être occupé de Clémentine et je vous promets que nous serons de retour à temps pour Spring Break !
+Hé, Sandra, c'est Diana. Nous sommes toujours à Savannah. Ed a eu un petit "incident" avec un mec bizarre à coté de l'hôtel, on a dû aller aux urgences pour passer quelques examens. Quoi qu'il en soit, il ne se sent pas assez bien pour revenir ce soir, on reste donc une journée supplémentaire. Un énorme merci pour vous être occupée de Clémentine et je vous promets que nous serons de retour à temps pour Spring Break !
 216)  ANSWERING MACHINE
 Deuxième Message. Laissé à 23:19.
 217)  MOM

@@ -17,7 +17,7 @@
 9)  LEE
 Hé ! Hé officier ! Vous allez bien ?! Je suis toujours menotté ici, venez !
 10)  LEE
-OFFICIER ! [à lui-même] Ca sent pas bon. Il semble pas avoir été éjecté de la voiture...
+OFFICIER ! [à lui-même] Ca ne sent pas bon. Il ne semble pas avoir été éjecté de la voiture...
 11)  LEE
 Il ne bouge pas.
 12)  LEE
@@ -71,11 +71,11 @@ Je vais aller chercher de l'aide--
 36)  LEE
 {fearB}Arrêtez ! {angryB}Reculez !
 37)  LEE
-Ugh!
+Ugh !
 77)  LEE
-Ugh!
+Ugh !
 79)  LEE
-Ugh!
+Ugh !
 38)  LEE
 [Frappant du pied la fenêtre] Ugh !
 69)  LEE
@@ -91,7 +91,7 @@ Ugh!
 41)  LEE
 [Atterrissage au sol sur une jambe cassée] Uhh--AHHHH !!!
 42)  LEE
-[examinant le fusil a pompe] Il a pas l'air chargé.
+[examinant le fusil a pompe] Il n'a pas l'air chargé.
 43)  LEE
 Il sera plus facile à manipuler sans ces menottes.
 44)  LEE
@@ -155,19 +155,19 @@ Ahh ! Bon sang !
 72)  LEE
 Il y a une pièce de la voiture là-bas... C'est mieux qu'un morceau de moi.
 73)  LEE
-[regarde un morceau de l'épave -- un ordinateur portable cassé de la police et des papiers de la boîte à gants ]
+[regarde un morceau de l'épave -- un ordinateur portable cassé de la police et des papiers de la boîte à gants]
 74)  LEE
 [fatigué, exaspéré] Merde.
 75)  LEE
 [le zombie se réveille] Hein, officier ?...
 76)  LEE
-[lève les yeux vers la rambarde cassé, au sommet de la pente d'où la voiture est tombé]
+[lève les yeux vers la rambarde cassée, au sommet de la pente d'où la voiture est tombée]
 78)  LEE
-[Donnat un dernier coups de pied sur la fenêtre, sautant par la vitre] Argh !
+[Donnant un dernier coup de pied dans la fenêtre, sautant par la vitre] Argh !
 80)  LEE
 Oh, c'est la merde partout.
 81)  LEE
-Argh, c'est raide. Je ne vais pas être en mesure de revenir à la route chercher de l'aide. Merde.
+Argh, c'est raide. Je ne vais pas être en mesure de revenir sur la route chercher de l'aide. Merde.
 82)  
 Vitre
 83)  
