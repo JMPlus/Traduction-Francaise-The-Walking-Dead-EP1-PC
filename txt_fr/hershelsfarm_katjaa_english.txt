@@ -29,13 +29,13 @@ Vous avez l'air détendues.
 15)  LEE
 {thinkingB} Ben, bien sûr.[like "duh"]
 16)  KATJAA
-{normalA} Quoi qu'il en soit, c'est un peu comme {thinkingA}si nous n'avions pas vu des gens se manger entre eux ces trois derniers jours. {happyA}C'est paisible ici, nan ?
+{normalA} Quoi qu'il en soit, c'est un peu comme {thinkingA}si nous n'avions pas vu des gens se manger entre eux ces trois derniers jours. {happyA}C'est paisible ici, non ?
 17)  CLEMENTINE
 {happyB} C'était facile.
 18)  LEE
 {thinkingA} Oh, euh, {happyB} c'était comment ?
 19)  LEE
-{fearA} J'veux dire, t'es une  {happyB}fortiche ?
+{fearA} Je veux dire, t'es une {happyB}fortiche ?
 20)  KATJAA
 {happyB} Je pense que nous faisons bien. {happyC} Clémentine vient de me parler de son CE1.
 21)  LEE
@@ -71,9 +71,9 @@ Ma faute.
 57)  
 Ma faute.
 35)  KATJAA
-{sadB} C'est dommage. {normalB} Eh bien, j'entends toujours les gens vouloir retourner à l'université, après un grand désastre. {happyB} Les gens ne veulent pas mourir ignorants, je suppose.
+{sadB} C'est dommage. {normalB} Eh bien, j'entends toujours les gens dire vouloir retourner à l'université, après un grand désastre. {happyB} Les gens ne veulent pas mourir ignorants, je suppose.
 55)  KATJAA
-{sadB} C'est dommage. {normalB} Eh bien, j'entends toujours les gens vouloir retourner à l'université, après un grand désastre. {happyB} Les gens ne veulent pas mourir ignorants, je suppose.
+{sadB} C'est dommage. {normalB} Eh bien, j'entends toujours les gens dire vouloir retourner à l'université, après un grand désastre. {happyB} Les gens ne veulent pas mourir ignorants, je suppose.
 36)  KATJAA
 {happyB} Vous serez de retour dans une salle de classe en un rien de temps.
 58)  KATJAA
@@ -87,7 +87,7 @@ A tout à l'heure.
 40)  LEE
 {happyA} A tout à l'heure.
 41)  KATJAA
-[goodbye] {happyC} OK, Lee.
+[goodbye] {happyC} Ok, Lee.
 42)  LEE
 On dirait que ces deux-là vont bien s'entendre.
 43)  LEE
@@ -97,7 +97,7 @@ On dirait que ces deux-là vont bien s'entendre.
 45)  LEE
 Tu as passé un bon moment avec Katjaa, Clémentine ?
 46)  LEE
-[having said a dumb thing] Ouais, OK.
+[having said a dumb thing] Ouais, ok.
 47)  LEE
 Euh, tu as besoin d'aller aux toilettes ou quelque chose comme ça ?
 48)  KATJAA
@@ -117,11 +117,11 @@ Qu'est-ce que vous faites ?
 59)  LEE
 [Lie] {normalD} Ouais, ma faute..
 60)  KATJAA
-{normalA} Eh bien, je pense juste que c'est important de rester optimiste pour [gesturing towards his daughter at your side] {happyC} nos petits.
+{normalA} Eh bien, je pense juste que c'est important de rester optimiste pour [gesturing towards his daughter at your side] {happyC} nos enfants.
 61)  KATJAA
-[pickup1] J'aimerai rentrer chez moi demain, mais même alors, je pourrais pas enlever les choses que nous -- les choses que Duck -- a traversé.
+[pickup1] J'aimerais rentrer chez moi demain, mais même alors, je ne pourrais pas enlever les choses que nous -- les choses que Duck -- a traversé.
 62)  KATJAA
-[pickup1] Vous ne voulez pas revenir avant l'instant ou vous avez vécu tout ça ?
+[pickup1] Vous ne voulez pas revenir avant l'instant où vous avez vécu tout ça ?
 63)  
 Qui ne le voudrait pas ?
 64)  
@@ -131,7 +131,7 @@ Ca allait mal avant.
 66)  KATJAA
 [pickup1]Toutes ces choses.
 67)  LEE
-{happyA} Ce sont les choses pour lesquelles nous vivons, non? {fearA} Avec celles disparues, à quoi bon ?
+{happyA} Ce sont les choses pour lesquelles nous vivons, non ? {fearA} Elles disparues, à quoi bon ?
 68)  LEE
 {normalD} Pour n'importe qui le bon sens le voudrait. La famille, les barbecues et les bières avec les amis.
 69)  KATJAA
@@ -159,7 +159,7 @@ Ca allait mal avant.
 79)  KATJAA
 [pickup1] Nous serons tous bientôt chez nous.
 80)  
-Look At
+Regarder
 81)  
-Talk to
+Parler à
 

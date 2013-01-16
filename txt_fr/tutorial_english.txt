@@ -27,49 +27,49 @@ Aller à l'étagère (Appuyez sur W)
 14)  
 Aller à l'étagère (Appuyez sur Stick Gauche)
 15)  
-Poussez l'étagère (souris pour regarder, clic gauche pour sélectionner)
+Pousser l'étagère (souris pour regarder, clic gauche pour sélectionner)
 16)  
-Poussez l'étagère (Appuyez sur le stick droit pour regarder, A pour sélectionner)
+Pousser l'étagère (Appuyez sur le stick droit pour regarder, A pour sélectionner)
 17)  
-Faire une chose. (Probablement dans la voiture de flic) (molette de défilement sur l'icone)
+Faire une chose. (Probablement dans la voiture de policier) (molette de défilement sur l'icone)
 18)  
-Faire une chose. (Probablement dans la voiture de flic) (pad directionnel)
+Faire une chose. (Probablement dans la voiture de policier) (pad directionnel)
 19)  
-Allez à la fenêtre
+Aller à la fenêtre
 20)  
-Allez à la fenêtre
+Aller à la fenêtre
 21)  
 Approfondir les conseils (Clic gauche)
 22)  
 Approfondir les conseils (A)
 23)  
-Allez à la porte
+Aller à la porte
 24)  
-Allez à la porte
+Aller à la porte
 25)  
-Tenez la porte close
+Tenir la porte close
 26)  
-Tenez la porte close
+Tenir la porte close
 27)  
-Prenez la canne.
+Prendre la canne.
 28)  
-Prenez la canne.
+Prendre la canne.
 29)  
-Mettez la canne sur les poignées de porte
+Mettre la canne sur les poignées de porte
 30)  
-Mettez la canne sur les poignées de porte
+Mettre la canne sur les poignées de porte
 31)  
 Sauver Doug ou Carley
 32)  
 Sauver Doug ou Carley
 33)  
-Courez !
+Courir !
 34)  
-Courez !
+Courir !
 35)  
-Répondre au flic (molette de la souris, clic gauche pour choisir)
+Répondre au policier (molette de la souris, clic gauche pour choisir)
 36)  
-Répondre au flic
+Répondre au policier
 37)  
 Si les choix s'estompent, vous resterez silencieux
 38)  
@@ -83,9 +83,9 @@ Penchez-vous trop longtemps et vous serez vu
 42)  
 Penchez-vous trop longtemps et vous serez vu
 43)  
-Sélectionnez d'autres actions. (Molette de défilement sur l'icone)
+Sélectionner d'autres actions. (Molette de défilement sur l'icone)
 44)  
-Sélectionnez d'autres actions. (Pad directionnel)
+Sélectionner d'autres actions. (Pad directionnel)
 45)  
 Libérer Clementine
 46)  
@@ -116,7 +116,7 @@ Maintenant. Utilisez le stick analogique droit pour regarder autour de vous.
 58)  
 Bon. Maintenant visez la cible au rétroviseur.
 59)  
-Vous remarquerez une petite icône. Appuyez sur le bouton pour avoir un contact visuel avec le flic.
+Vous remarquerez une petite icône. Appuyez sur le bouton pour avoir un contact visuel avec le policier.
 60)  
 Expérimentez les différentes actions pour voir ce qui se passe.
 61)  
@@ -144,15 +144,15 @@ Utilisez le stick gauche pour reculer !
 72)  
 CONTINUER
 73)  
-Bon. Maintenant visez la cible au rétroviseur pour avoir un contact visuel avec ce flic.
+Bon. Maintenant visez la cible au rétroviseur pour avoir un contact visuel avec ce policier.
 74)  
 CHOIX:
-Vous avez répondu au flic.
+Vous avez répondu au policier.
 75)  
-Vous avez choisi de répondre au flic.
+Vous avez choisi de répondre au policier.
 76)  
 CHOIX:  
-Vous avez ignoré le flic.
+Vous avez ignoré le policier.
 77)  
 P
 78)  
@@ -172,9 +172,9 @@ Utilisez le stick gauche pour déplacer Lee et le droit pour interagir avec le mo
 83)  
 Bienvenue dans The Walking Dead...
 84)  
-Vous remarquerez une petite icône. Appuyez sur le bouton X pour établir un contact visuel avec le flic.
+Vous remarquerez une petite icône. Appuyez sur le bouton X pour établir un contact visuel avec le policier.
 85)  
-Vous remarquerez une petite icône. Appuyez sur le bouton A pour établir un contact visuel avec le flic.
+Vous remarquerez une petite icône. Appuyez sur le bouton A pour établir un contact visuel avec le policier.
 86)  
 iPad text should go here.
 87)  
@@ -190,7 +190,7 @@ Vous avez un temps limité pour choisir une option de dialogue.
 92)  
 Vous avez un temps limité pour faire un choix.
 93)  
-Appuyez sur le bouton pour avoir un contact visuel avec le flic.
+Appuyez sur le bouton pour avoir un contact visuel avec le policier.
 94)  
 Maintenant viser la cible au rétroviseur.
 95)  

@@ -5,7 +5,7 @@ Pourquoi dites-vous cela ?
 3)  
 Est-ce vraiment important ?
 4)  
-Vous savez ce qu'ils disent sur le réglement de compte.
+Vous savez ce qu'ils disent sur le règlement de compte.
 6)  LEE
 {thinkingA}{body-sitcuffed}Pourquoi dites-vous cela ?
 7)  LEE
@@ -17,7 +17,7 @@ Vous savez ce qu'ils disent sur le réglement de compte.
 10)  LEE
 {happyA}Ouais, quelque chose comme ça.
 11)  COP
-{happyB}{body-drive}Ha, je sais pas mais je {happyC}suppose que ce n'est pas comme assumer.
+{happyB}{body-drive}Ha, je ne sais pas mais je {happyC}suppose que ce n'est pas comme assumer.
 12)  COP
 {normalC}{body-drive}Hmm.
 13)  COP
@@ -31,11 +31,11 @@ Chaque fois ?
 18)  LEE
 {normalC}{body-sitcuffed}Et qu'est-ce que vous dites ?
 19)  COP
-{normalC}{body-drive}Je dis "Ouais,{sadA} je sais que vous l'avez pas fait."
+{normalC}{body-drive}Je dis "Ouais,{sadA} je sais que vous ne l'avez pas fait."
 20)  LEE
 {angryA}{body-sitcuffed}Ce n'est pas moi.
 21)  COP
-{normalC}{body-drive}'Les gars dans votre position disent tous{fearA} la même chose ?
+{normalC}{body-drive}Les gars dans votre position disent tous{fearA} la même chose ?
 22)  LEE
 {normalD}{body-sitcuffed}Tout le temps ?
 23)  COP
@@ -81,7 +81,7 @@ Pas vraiment.
 44)  
 J'ai plusieurs choix ?
 46)  COP
-{sadA}{body-drive}Je voulais pas dire ça. Tout {happyB}le monde est innocent jusqu'à {happyC}ce que l'on prouve le contraire. Et {normalB}même si ils disent que vous l'avez tué..
+{sadA}{body-drive}Je ne voulais pas dire ça. Tout {happyB}le monde est innocent jusqu'à {happyC}ce que l'on prouve le contraire. Et {normalB}même si ils disent que vous l'avez tué..
 47)  LEE
 {normalD}{body-sitcuffed}Bien sûr.
 48)  LEE
@@ -95,7 +95,7 @@ J'ai plusieurs choix ?
 52)  COP
 Peut être que vous étiez marié à la mauvaise femme.
 53)  COP
-{fearA}{body-drive}J'imagine que ça {normalB}aurait pu arriver d'une myriade de façons. Légitime défense, {sadA}meurtre de sang-froid, {fearA}accident, conspiration, {thinkingA}merde, euh... {surprisedA}réaction allergique aussi, euh...{happyD} héhé, par balle! Ha! {happyB}C'est-ce pas une allergie bénigne !
+{fearA}{body-drive}J'imagine que ça {normalB}aurait pu arriver d'une myriade de façons. Légitime défense, {sadA}meurtre de sang-froid, {fearA}accident, conspiration, {thinkingA}merde, euh... {surprisedA}réaction allergique aussi, euh...{happyD} héhé, par balle ! Ha ! {happyB}Ce n'est pas une allergie bénigne !
 54)  
 Je pourrais l'avoir fait.
 56)  
@@ -105,11 +105,11 @@ Allez vous faire foutre.
 58)  COP
 {fearA}Alors il s'arrête, {body-drive}{thinkingA}et après avoir épuisé toutes ses options, il {disgustA}pleurniche et appelle sa maman. {fearC}"Maman, c'est une grosse méprise ! {angryA}C'est pas moi!"
 59)  COP
-{sadA}{body-drive}Je conduis ce type un jour, c'était {sadB}le pire. Il {fearA}voulait pas s'arrêter sur ce {thinkingA}qu'il n'avait pas fait.
+{sadA}{body-drive}Je conduis ce type un jour, c'était {sadB}le pire. Il ne {fearA}voulait pas s'arrêter sur ce {thinkingA}qu'il n'avait pas fait.
 60)  COP
-{fearC}Après un moment il {thinkingA}{body-turnback}commence à donner des coups de pied à l'arrière du siège, co-comme un bébé capricieux à bord d'un avion. Et {fearC}Je lui dis qu'il doit arrêter, que {angryA}c'est la propriété du gouvernement, et je serai{thinkingA}forcé de le taser autrement..
+{fearC}Après un moment il {thinkingA}{body-turnback}commence à donner des coups de pied à l'arrière du siège, co-comme un bébé capricieux à bord d'un avion. Et {fearC}Je lui dis qu'il doit arrêter, que {angryA}c'est la propriété du gouvernement, et que je serai{thinkingA}forcé de le taser autrement..
 61)  COP
-C'était un vieux type. {sadA}Gros, aux yeux doux derrière une paire de {disgustA}lunettes, et il {fearB} gémissait là-derrière, disant {surprisedA}que c'était pas lui. {thinkingA}Pleurant et reniflant, {happyC}juste ou vous êtes assis.
+C'était un vieux type. {sadA}Gros, aux yeux doux derrière une paire de {disgustA}lunettes, et il {fearB} gémissait là-derrière, disant {surprisedA}que ce n'était pas lui. {thinkingA}Pleurant et reniflant, {happyC}juste où vous êtes assis.
 62)  
 Un homme.
 63)  
@@ -129,7 +129,7 @@ Alors, il l'a fait ?
 71)  COP
 Ca tend à montrer que les gens {disgustA}deviennent fous {fearB}quand ils croient que leur vie est finie.
 72)  COP
-{surprisedA}{body-drive}Ils ont attrapé {thinkingA}cet enfoiré en flagrant délit ! {angryA}Poignardant sa femme, la découpant si finement qu'on aurait pu la glisser sous la porte ! {surprisedA}Ce boucher était assis dans ma voiture criant{fearC} que c'était pas lui ! {thinkingA}Je pense qu'il y croyait vraiment lui-même.
+{surprisedA}{body-drive}Ils ont attrapé {thinkingA}cet enfoiré en flagrant délit ! {angryA}Poignardant sa femme, la découpant si finement qu'on aurait pu la glisser sous la porte ! {surprisedA}Ce boucher était assis dans ma voiture criant{fearC} que ce n'était pas lui ! {thinkingA}Je pense qu'il y croyait vraiment lui-même.
 73)  COP
 {happyD}{body-drive}Oh, J'en ai une autre {body-turnback}bonne pour toi. {surprisedA}Celle-ci est un peu moins déprimante et{happyB} un peu plus marrante si je peux dire. {fearB}Cette autre fois--
 74)  COP
@@ -139,7 +139,7 @@ C'est pas hilarant ?!
 76)  COP RADIO
 Soyez avisé, je le répète soy-
 77)  COP
-Je ramasse ce gang-banger sur la route dans Macon et je me sens particulièrement confiant ce jour-là. Alors il entre à l'intérieur et je commence à lui parler; lui racontant toutes les choses qu'il pourra lui arriver, là-bas au cours des prochaines 75 années de sa pathétique vie et je vous le dis, je n'ai jamais vu quelqu'un d'aussi effrayé de toutes mes années de service.
+Je ramasse ce voyou sur la route dans Macon et je me sens particulièrement confiant ce jour-là. Alors il entre à l'intérieur et je commence à lui parler; lui racontant toutes les choses qu'il pourra lui arriver, là-bas au cours des prochaines 75 années de sa pathétique vie et je vous le dis, je n'ai jamais vu quelqu'un d'aussi effrayé de toutes mes années de service.
 78)  
 ATTENTION !
 79)  
@@ -155,7 +155,7 @@ Information: du personnel médical est sur la route de Hartsfield, entre la 10eme
 84)  COP RADIO
 A toutes les voitures. Tous les agents disponibles pour les appels code 217. Circulez et rendez-vous sur site.
 85)  COP
-{thinkingA}{body-drive}Vous êtes fort, mais {happyC}autant.
+{thinkingA}{body-drive}Vous êtes fort, mais pas {happyC}autant.
 86)  COP
 {happyB}{body-drive}Je suis sûr que le directeur les aura en un temps record.. [sarc]
 87)  COP

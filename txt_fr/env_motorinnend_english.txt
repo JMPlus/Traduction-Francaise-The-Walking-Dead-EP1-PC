@@ -1,7 +1,7 @@
 1)  GLENN
 {NormalB}Faut que je saisisse ma chance.
 2)  GLENN
-Ouais... J'y ai des amis et{ThinkingA} je peux pas juste rester ici sachant qu'ils pourraient être coincés dans cette ville.
+Ouais... J'y ai des amis et{ThinkingA} je ne peux pas juste rester ici sachant qu'ils pourraient être coincés dans cette ville.
 3)  GLENN
 {NormalB}Je crois qu'il faut que j'y aille.
 4)  LEE
@@ -13,7 +13,7 @@ Ouais... J'y ai des amis et{ThinkingA} je peux pas juste rester ici sachant qu'i
 7)  LEE
 {SurpriseA}A Atlanta ?
 8)  RADIO
-[over radio] Avec d'innombrables urgences critiques dans tous les pays, les villes de Géorgie et leur niveau actuel de désastre sont les suivantes : Atlanta, catastrophe de niveau neuf, Augusta, désastre de niveau huit, Columbus, zone d'infection de niveau six, Savannah catastrophe de niveau neuf, Athens, désastre de niveau huit, Sandy Springs explosion de niveau sept, Macon, catastrophe de niveau neuf, Roswell, catastrophe de niveau neuf, Albany, catastrophe de niveau neuf ; encore une fois, Savannah est maintenant en état de catastrophe de niveau neuf...
+[over radio] Avec d'innombrables urgences critiques dans tous les pays, les villes de Géorgie et leur niveau actuel de désastre sont les suivantes : Atlanta, catastrophe de niveau neuf, Augusta, désastre de niveau huit, Columbus, zone d'infection de niveau six, Savannah catastrophe de niveau neuf, Athens, désastre de niveau huit, Sandy Springs explosion de niveau sept, Macon, catastrophe de niveau neuf, Roswell, catastrophe de niveau neuf, Albany, catastrophe de niveau neuf; encore une fois, Savannah est maintenant en état de catastrophe de niveau neuf...
 9)  LEE
 {HappyA}On va essayer.
 10)  GLENN
@@ -35,7 +35,7 @@ Je crois que c'est un mauvais choix.
 21)  LEE
 {NormalC}Je respecte ça.
 18)  
-Vous devez faire ce que vous avez a faire.
+Vous devez faire ce que vous avez à faire.
 19)  GLENN
 {FearA} Il faut que je le fasse.
 20)  LEE
@@ -89,11 +89,11 @@ Elle va bien.
 44)  
 Pas vraiment.
 45)  LARRY
-{HappyA}Bien. {AngryB}Tenez vous loin d'elle ; ou {AngryA}tout le monde ici saura que {DisgustA}Lee Everett est un tueur. {AngryB}Et je ne parle pas de ces CHOSES dehors.
+{HappyA}Bien. {AngryB}Tenez vous loin d'elle ou {AngryA}tout le monde ici saura que {DisgustA}Lee Everett est un tueur. {AngryB}Et je ne parle pas de ces CHOSES dehors.
 46)  LEE
 {NormalB} Pas vraiment.
 47)  LARRY
-{HappyA}Bon encore une fois, je ne m'attends pas à ce qu'un {DisgustA}meurtrier condamné écoute quoi que ce soit qu'on ait à lui dire.
+{HappyA}Bon encore une fois, je ne m'attends pas à ce qu'un {DisgustA}meurtrier condamné écoute quoi que ce soit qu'on aie à lui dire.
 48)  LARRY
 {DisgustA}Vous me comprenez ?
 49)  LARRY
@@ -107,7 +107,7 @@ Eh bien la réponse ferait mieux d'être "non".
 53)  LILLY
 {NormalC} Vous ne pouvez dire ça. Vous êtes un vrai mec.
 54)  LEE
-{ThinkingB} {body-C2}Je sais pas...
+{ThinkingB} {body-C2}Je ne sais pas...
 55)  LILLY
 {HappyC} Nous avons de la chance de vous avoir.
 56)  KENNY
@@ -161,7 +161,7 @@ Je ne l'ai pas fait.
 117)  
 Je ne l'ai pas fait.
 81)  LEE
-{NormalC} Je n'l'ai pas fait.
+{NormalC} Je ne l'ai pas fait.
 82)  DOUG
 {SadA}Oh.
 83)  LEE
@@ -227,9 +227,9 @@ Ca pourrait être une bonne idée d'aller prendre des nouvelles de Carley.
 106)  LEE
 {NormalC} Je sais, ouais. [I'm ok, you know, considering...]
 107)  CARLEY
-J'arrête pas de penser à Doug. {ThinkingA}On n'aurait pas pu le sauver, n'est-ce pas ?
+Je n'arrête pas de penser à Doug. {ThinkingA}On n'aurait pas pu le sauver, n'est-ce pas ?
 108)  LEE
-{ThinkingA}Je crois pas. C'est arrivé assez vite.
+{ThinkingA}Je ne crois pas. C'est arrivé assez vite.
 109)  CARLEY
 {FearA} Je sais que c'est stupide... On venait juste de se rencontrer... {ThinkingB}et il était si... C'est juste que...{DisgustA} je crois que je l'aimais bien.
 110)  CARLEY
@@ -253,7 +253,7 @@ J'aurais juste souhaité que nous nous en sortions tous les deux, vous savez ?
 120)  LEE
 {NormalB} Parfois on ne choisit pas. {NormalC}On fait simplement ce qu'on fait.
 121)  
-J'ai pense que vous aviez plus besoin d'aide.
+J'ai pensé que vous aviez plus besoin d'aide.
 123)  CARLEY
 {NormalC} Ah, c'est judicieux.
 126)  LEE
@@ -265,7 +265,7 @@ J'ai pense que vous aviez plus besoin d'aide.
 211)  CARLEY
 {ThinkingA} Je suppose que ça ne fait rien.
 130)  
-Je suis sur qu'il vous aimait bien lui aussi.
+Je suis sûr qu'il vous aimait bien lui aussi.
 131)  LEE
 [lighthearted] {HappyA}Eh bien moi je suis sûr qu'il vous aimait bien lui aussi.
 132)  CARLEY
@@ -287,7 +287,7 @@ Vous vous en sortirez.
 141)  LEE
 {body-C}Merci de m'avoir pris.
 142)  KENNY
-{NormalC} Pas de problème.
+{NormalC}Pas de problème.
 143)  KENNY
 {body-HandsHips} {HappyA}Nous devons veiller les uns sur les autres. [remembering that he let Hershel's son die]
 144)  LEE
@@ -305,7 +305,7 @@ Mais vous {NormalB}pouvez prendre soin d'elle. {body-A}Bon sang, {HappyB}peut-êt
 150)  LEE
 {body-B} {HappyB}Merci, Kenny.
 151)  KENNY
-{HappyA}Je surveille vos arrières, camarades.
+{HappyA}Je surveille vos arrières, camarade.
 152)  KENNY
 {NormalB}{body-B}Plus tôt, j'ai dis que vous devriez vous demander ce que vous allez faire si les parents de Clémentine ne réapparaissent pas.
 153)  LEE
@@ -313,7 +313,7 @@ Mais vous {NormalB}pouvez prendre soin d'elle. {body-A}Bon sang, {HappyB}peut-êt
 154)  KENNY
 {SadA}{body-A}Vous pensez que ça va se produire ?
 155)  LEE
-{ThinkingB}{body-C} Que ses parents se pointent ? {SadA}{body-C2}Non, je crois pas.
+{ThinkingB}{body-C} Que ses parents se pointent ? {SadA}{body-C2}Non, je ne crois pas.
 156)  KENNY
 {NormalC}Eh bien je veux que vous sachiez que je pense que vous l'avez en vous.{body-HandsHips} Je {ThinkingA}pense que vous pouvez très bien prendre soin de cette petite fille.
 157)  LEE
@@ -377,7 +377,7 @@ Parler à
 186)  LEE
 [pickup3] {NormalC}{Body-F}Hé Duck, tu pourrais te reposer une minute ?
 187)  DUCK
-[pickup1] {SadA}OK, s'cuse.
+[pickup1] {SadA}Ok, s'cuse.
 188)  DUCK
 [pickup1] {HappyC}Oh ! ET ENSUITE ?
 189)  
@@ -407,7 +407,7 @@ Alors ? Ca ne peut plus nous aider.
 200)  LEE
 [pickup3] {NormalD}Peut-être que nous pourrons t'en trouver un autre.
 201)  CLEMENTINE
-[pickup2] {SadB}Je vais me contenter ce celui-ci, je crois.
+[pickup2] {SadB}Je vais me contenter de celui-ci, je crois.
 202)  LEE
 [pickup3] [ugh] {AngryA}Laisse-moi{NormalB} m'en occuper.
 203)  CLEMENTINE
@@ -417,7 +417,7 @@ Alors ? Ca ne peut plus nous aider.
 206)  KATJAA
 [pickup1] Ken, pourrais-tu juste regarder là-bas ? Tout ce que nous possédons serait perdu si je te laissais seul pendant cinq minutes.
 207)  KATJAA
-[pickup1] Je ne sais pas à quel point c'est dur de garder trace des choses ; ce n'est pas comme si nous avions beaucoup à faire pour commencer.
+[pickup1] Je ne sais pas à quel point c'est dur de garder trace des choses; ce n'est pas comme si nous avions beaucoup à faire pour commencer.
 208)  KATJAA
 [pickup1]  Je me rappelle quand j'ai fait les bagages. J'ai dit : "Oh ça va être important et Kenny va les perdre, alors je vais les mettre juste dans cette boîte du devant" et puis il a fallu que tu y ailles et les déplaces.
 209)  DUCK

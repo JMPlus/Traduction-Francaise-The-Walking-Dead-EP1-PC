@@ -71,7 +71,7 @@ Entrer dans le drugstore après le suicide d'Irène.
 36)  
 Tuer le flic zombie.
 37)  
-Tué la babysitter zombie.
+Tuer la babysitter zombie.
 38)  
 Choisir d'aider Shawn ou Duck.
 39)  
@@ -123,7 +123,7 @@ Terminer le Chapitre 5 de l'épisode 1.
 62)  
 Échapper à Sandra et rencontrer Clémentine.
 63)  
-Trouver de l'aide, vous êtes maintenant responsables d'une petite fille.
+Trouver de l'aide, vous êtes maintenant responsable d'une petite fille.
 64)  
 Choisir Entre Deux Fils.
 65)  

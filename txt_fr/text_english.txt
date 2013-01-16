@@ -21,7 +21,7 @@ Shawn
 11)  
 Zombie
 12)  
-Aidez à garder la porte fermée.
+Aider à garder la porte fermée.
 13)  
 Tenir <button> pour bloquer la porte.
 14)  

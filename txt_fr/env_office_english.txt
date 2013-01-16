@@ -27,7 +27,7 @@
 14)  LEE
 {happyB}Tu veux revenir dans le drugstore avec moi ?
 15)  CLEMENTINE
-{happyB}	OK.
+{happyB}	Ok.
 16)  CLEMENTINE
 {fearA}	Lee ?
 17)  CLEMENTINE
@@ -35,11 +35,11 @@
 18)  LEE
 [like, 'yeah, what is it?'] Ouais ?
 19)  CLEMENTINE
-{fearB}	Cette dame a dit que tu avais tué quelqu'un.{sadA} C'était parce qu'il était une de ces choses qui essayer de te manger ?
+{fearB}	Cette dame a dit que tu avais tué quelqu'un.{sadA} C'était parce qu'il était une de ces choses qui essayait de te manger ?
 20)  LEE
 {surpriseA}Je...{normalD}Pourquoi tu me demandes ça ?
 21)  
-Non. Il l'était pas.
+Non. Il ne l'était pas.
 22)  
 C'est compliqué.
 23)  
@@ -67,7 +67,7 @@ Oui.
 32)  CLEMENTINE
 {fearB}	Et tu as dû te protéger ?
 33)  CLEMENTINE
-Oh, OK.
+Oh, ok.
 35)  CLEMENTINE
 [doesn't get an answer - distrusting] {sadA}Bon{thinkingA}...ça ne fait rien. C'est rien.
 302)  CLEMENTINE
@@ -87,7 +87,7 @@ Ils nous retrouverons.
 43)  
 Je ne pense pas qu'ils reviendront.
 44)  CLEMENTINE
-{sadA}Ouais. OK. {thinkingA}On devrait ouvrir l'oeil.
+{sadA}Ouais. Ok. {thinkingA}On devrait ouvrir l'oeil.
 45)  LEE
 {happyA}Ils veulent que tu sois en sécurité. {happyB}On les retrouvera si c'est possible.
 46)  CLEMENTINE
@@ -135,9 +135,9 @@ Mais je pense que ça ira bien.
 67)  CLEMENTINE
 {happyB}Ouais. Ce n'est pas si lourd.
 68)  LEE
-Tu penses quoi de qui arrive dehors.
+Tu penses quoi de ce qui arrive dehors.
 69)  LEE
-{sadA}	Moi non plus, Clémentine. {thinkingA}Personne l'est, je pense.
+{sadA}	Moi non plus, Clémentine. {thinkingA}Personne ne l'est, je pense.
 70)  CLEMENTINE
 Ouais...
 71)  CLEMENTINE
@@ -147,7 +147,7 @@ Ouais...
 73)  LEE
 {thinkingB}Mais tu es cool ?{happyA}
 74)  LEE
-{happyA}	OK, c'est bon à savoir. Et tu n'as pas d'allergies ou quoi que ce soit que je devrais savoir, hein ?{thinkingA} Les enfants ont pas des allergies, de l'asthme ou simplement des maladies ?
+{happyA}	Ok, c'est bon à savoir. Et tu n'as pas d'allergies ou quoi que ce soit que je devrais savoir, hein ?{thinkingA} Les enfants n'ont pas des allergies, de l'asthme ou simplement des maladies ?
 75)  CLEMENTINE
 Si, je pense.
 76)  CLEMENTINE
@@ -163,13 +163,13 @@ Si, je pense.
 81)  
 Parce qu'ils sont morts.
 82)  
-J'espère pas. C'est juste compliqué.
+Je n'espère pas. C'est juste compliqué.
 83)  CLEMENTINE
 [out of breath for a second]{thinkingA} Tu as des enfants ?
 84)  CLEMENTINE
 [pushing a heavy thing] {angryB}Argh...grrr...Arghh.
 85)  LEE
-{thinkingA}OK, allons-y.
+{thinkingA}Ok, allons-y.
 86)  CLEMENTINE
 {thinkingA}Tu n'as pas de famille ?
 87)  LEE
@@ -211,9 +211,9 @@ Qu'est-ce que c'est ?
 105)  LEE
 C'est comme du tennis en intérieur et sans filet.
 106)  LEE
-{happyA}	J'en suis pas fou non plus.
+{happyA}	Je n'en suis pas fou non plus.
 107)  CLEMENTINE
-[Short]{normalA}Oh. OK. Je suis désolée.
+[Short]{normalA}Oh. Ok. Je suis désolée.
 108)  LEE
 {normalD}	Déplaçons cette chose.
 109)  LEE
@@ -247,7 +247,7 @@ Pourquoi ?
 123)  CLEMENTINE
 {fearB}	Pourquoi ? Vous vous êtes disputés ?{sadB} Je me dispute avec ma mère parfois.
 124)  LEE
-{thinkingA}J'ai eu quelques ennuis et depuis je ne leurs ai pas parlé.{sadA} C'était leur magasin.{happyA} Mais on garde ça entre nous d'accord ?
+{thinkingA}J'ai eu quelques ennuis et depuis je ne leur ai pas parlé.{sadA} C'était leur magasin.{happyA} Mais on garde ça entre nous d'accord ?
 125)  CLEMENTINE
 {sadA}	Ouais.
 126)  LEE
@@ -255,7 +255,7 @@ Exact. [a beat] Maintenant bougeons ça.
 127)  LEE
 {angryA}Écoute,{sadA} ma famille est partie et {angryB}J'aurais aimé simplement que les choses soient différentes.
 128)  CLEMENTINE
-{thinkingA}OK. A cause des ennuis ?
+{thinkingA}Ok. A cause des ennuis ?
 129)  CLEMENTINE
 [getting your finger pinched ina  drawer, alt] {cryingB}AIE !
 130)  CLEMENTINE
@@ -309,21 +309,21 @@ Une photo de la famille qui possédait l'endroit
 215)  
 Une photo de la famille qui possédait l'endroit
 146)  CARLEY
-Laissez-moi jeter un oeil.
+Laissez-moi y jeter un oeil.
 213)  CARLEY
-Laissez-moi jeter un oeil.
+Laissez-moi y jeter un oeil.
 290)  CARLEY
-Laissez-moi jeter un oeil.
+Laissez-moi y jeter un oeil.
 291)  CARLEY
-Laissez-moi jeter un oeil.
+Laissez-moi y jeter un oeil.
 147)  LEE
-{thinkingA}	J'y connais rien.
+{thinkingA}	Je n'y connais rien.
 214)  LEE
-{thinkingA}	J'y connais rien.
+{thinkingA}	Je n'y connais rien.
 289)  LEE
-{thinkingA}	J'y connais rien.
+{thinkingA}	Je n'y connais rien.
 292)  LEE
-{thinkingA}	J'y connais rien.
+{thinkingA}	Je n'y connais rien.
 148)  CARLEY
 {thinkingA}	Je sais qui vous êtes.
 233)  CARLEY
@@ -411,7 +411,7 @@ Je ne vous fais pas confiance.
 172)  
 Verrouillé et barricadé
 173)  
-Barricadés, n'ont pas compris que c'était verrouillé
+Barricadée, ils n'ont pas compris que c'était verrouillé
 174)  LEE
 {thinkingA}C'est la porte de la pharmacie, on devrait pouvoir y trouver des pilules pour Larry.
 176)  LEE
@@ -540,7 +540,7 @@ C'est l'apocalypse. Qui s'en soucie ?
 263)  LEE
 [pickup3] Qu'est-ce ça peut vous faire?
 264)  CARLEY
-[pickup1] Si vous pensez que les gens vont pas trouver une raison de se retourner contre vous, surtout quand la merde frappe à la porte, vous êtes fou.
+[pickup1] Si vous pensez que les gens ne vont pas trouver une raison de se retourner contre vous, surtout quand la merde frappe à la porte, vous êtes fou.
 265)  LEE
 [pickup3] C'est la fin du monde dehors. Qui se soucie de qui je suis ?
 266)  LEE
@@ -558,7 +558,7 @@ J'ai... tué quelqu'un.
 271)  LEE
 [pickup3] Je peux comprendre.
 272)  LEE
-[pickup3] Je ne suis pas un mauvais gars, OK ? Ces choses sont arrivées et nous n'avons pas beaucoup parlé après.
+[pickup3] Je ne suis pas un mauvais gars, ok ? Ces choses sont arrivées et nous n'avons pas beaucoup parlé après.
 273)  CLEMENTINE
 [pickup1] Mes parents ne me parlent plus quand je suis méchante.
 275)  CLEMENTINE

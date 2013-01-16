@@ -43,7 +43,7 @@ Quelque chose va se produire, Lee. Il va y avoir une guerre.
 14)  LILLY
 [furious] Vous n'avez jamais aimé mon père ! Même de retour au drugstore quand tout le monde pensait que le gamin de Kenny avait été mordu, vous vous êtes dressé contre lui...
 15)  KENNY
-Lorsque vous avez tous pensé que Duck a été mordu...
+Lorsque vous avez tous pensé que Duck avait été mordu...
 16)  KENNY
 Eh bien, je fais simplement la même chose.
 17)  LEE
@@ -57,7 +57,7 @@ Je ne vous ai jamais remercié d'avoir sauvé Duck des marcheurs à la ferme d'Hers
 19)  KATJAA
 [cont.]Vous choisirez les enfants cette fois.[Recorded during 101 pickups]
 20)  KATJAA
-Ne pas répétez pas ce qui s'est passé avec les marcheurs à la ferme de Hershel.[Recorded during 101 pickups]
+Ne répétez pas ce qui s'est passé avec les marcheurs à la ferme de Hershel.[Recorded during 101 pickups]
 21)  LEE
 Comment tu vas, Clémentine ?
 24)  LEE
@@ -71,9 +71,9 @@ J'ai vraiment faim, Lee.
 26)  LEE
 {HappyA}Gardez-la.
 27)  DOUG
-{HappyA}Hé, je vous dois bien plus qu'une barre chocolatée a moitié mangée. {ThinkingA} Prenez-la.
+{HappyA}Hé, je vous dois bien plus qu'une barre chocolatée à moitié mangée. {ThinkingA} Prenez-la.
 28)  CARLEY
-{ThinkingA} Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible.
+{ThinkingA} Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faibles.
 29)  LEE
 {NormalB} Vous ne me devez rien, Carley.
 30)  LEE
@@ -154,9 +154,9 @@ Assise ici, regardant au-delà de la ferme, je peux faire comme si les choses son
 Eh bien, je fais la même chose. Sauf que Duck n'a pas été mordu et nous SAVONS que ce gars-là ne va pas le faire.
 Quelque chose de gros espionne le bloc de sel à lécher.
 52)  KENNY
-Ne croyez pas que j'aie oublié ce que vous avez dit au drugstore... quand vous avez tous pensé que Duck avait été mordu...
+Ne croyez pas que j'ai oublié ce que vous avez dit au drugstore... quand vous avez tous pensé que Duck avait été mordu...
 108)  KENNY
-Ne croyez pas que j'aie oublié ce que vous avez dit au drugstore... quand vous avez tous pensé que Duck avait été mordu...
+Ne croyez pas que j'ai oublié ce que vous avez dit au drugstore... quand vous avez tous pensé que Duck avait été mordu...
 54)  LEE
 D'où venez-vous les gars ?
 68)  LEE
@@ -182,9 +182,9 @@ Bien ... Si vous la voulez, je l'aurai pour vous, d'accord ?
 134)  CARLEY
 Bien ... Si vous la voulez, je l'aurai pour vous, d'accord ?
 61)  CARLEY
-Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible
+Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faibles.
 132)  CARLEY
-Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faible
+Je veux que vous preniez ça, d'accord ? Au cas où vous ou Clémentine commenceriez à vous sentir faibles.
 62)  LEE
 Vous ne me devez rien, Carley.
 72)  LEE
@@ -202,9 +202,9 @@ Nous ne savons pas si ces gens sont morts.
 86)  DOUG
 Donc, nous sommes des bandits, maintenant ?
 87)  CLEMENTINE
-Lee, on peut pas leur voler leur nourriture.
+Lee, on ne peut pas leur voler leur nourriture.
 88)  CLEMENTINE
-Lee, on peut pas leur voler leur nourriture.
+Lee, on ne peut pas leur voler leur nourriture.
 89)  MARK
 C'est des conneries. Vous avez sauvé sa vie -- non, toutes nos vies -- un paquet de fois ces derniers mois.
 90)  MARK
@@ -234,7 +234,7 @@ Avec tout ce sang et ces cris... Nous allons être encerclés d'une minute à l'aut
 103)  TEST
 This is a test line for lipsync/wav data.
 105)  LEE
-Kenny... Rappelez-vous au drugstore où nous avons tous pensé que Duck avait été mordu... Je lui ai donné le bénéfice du doute... Nous devrions peut-être refaire de même.
+Kenny... Rappelez-vous au drugstore quand nous avons tous pensé que Duck avait été mordu... Je lui ai donné le bénéfice du doute... Nous devrions peut-être refaire de même.
 106)  KENNY
 C'était différent. Duck n'a pas été mordu. Mais, allons, nous SAVONS que ce gars ne le fera pas.
 107)  LEE
@@ -254,11 +254,11 @@ Ouais, eh bien, mon instinct me disait d'y aller et de voir ce qui se passait. M
 115)  CARLEY
 Oh ! Et faites moi une faveur : dites à Lilly de prendre un peu de repos. Vous et moi sommes censés être de garde ce soir. J'ai besoin de vous en forme.
 116)  KENNY
-[furious] Vous avez dit qu'il n'était pas mordu !
+[furious] Vous avez dit qu'il n'avait pas été mordu !
 117)  BEN
 Ce n'est pas la morsure qui fait ça ! Ouais, la morsure va vous tuer, mais...
 118)  BEN
-Vous revenez peu importe comment vous mourez. Si vous détruisez pas le cerveau, c'est ce qui arrive. C'est ce qui va se passer pour nous tous.
+Vous revenez peu importe comment vous mourez. Si vous ne détruisez pas le cerveau, c'est ce qui arrive. C'est ce qui va se passer pour nous tous.
 126)  LEE
 Ces gens vont tout simplement retarder l'inévitable.
 127)  LEE

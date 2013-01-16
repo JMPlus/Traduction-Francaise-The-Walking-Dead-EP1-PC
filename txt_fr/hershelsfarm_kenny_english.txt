@@ -37,7 +37,7 @@ Silence
 18)  LEE
 {normalB} Je pense que je la traite bien.  {angryA} Aussi longtemps que je la garde en sécurité, je pense que tout ira bien.
 19)  LEE
-{happyA} Je n'ai aucune idée ce que je fais.
+{happyA} Je n'ai aucune idée de ce que je fais.
 20)  KENNY
 {happyB} Comme un être aimé alors.
 21)  LEE
@@ -47,7 +47,7 @@ Pas d'enfants.
 23)  
 Ca va.
 24)  
-J'en ai aucune idée.
+Je n'en ai aucune idée.
 25)  KENNY
 {fearA} Avec ces choses là-bas, soyez bien sûr que ça suffit. {thinkingA} Mais vous devez vous demander si vous êtes le genre de gars qui peut faire plus que ça{sadA} si ses parents ne réapparaissent pas.
 26)  LEE
@@ -55,9 +55,9 @@ J'en ai aucune idée.
 27)  KENNY
 {happyA} Au moins vous êtes honnête. {disgustA} Merde, mieux que je l'étais quand Duck s'est pointé. {happyB} Vous pouvez y arriver.
 28)  KENNY
-{normalC} Eh bien, quoique vous fassiez, elle est adorable. {fearA} Nous avons un tas de merde hallucinante arriver ici. Le genre de choses qui pourrait abîmer un petit ange comme ça.
+{normalC} Eh bien, quoique vous fassiez, elle est adorable. {fearA} Nous avons vu un tas de merde hallucinant arriver ici. Le genre de choses qui pourrait abîmer un petit ange comme ça.
 48)  KENNY
-{normalC} Eh bien, quoique vous fassiez, elle est adorable. {fearA} Nous avons un tas de merde hallucinante arriver ici. Le genre de choses qui pourrait abîmer un petit ange comme ça.
+{normalC} Eh bien, quoique vous fassiez, elle est adorable. {fearA} Nous avons vu un tas de merde hallucinant arriver ici. Le genre de choses qui pourrait abîmer un petit ange comme ça.
 30)  KENNY
 {sadA} Bien, je pense. {normalB} Katjaa a une soeur à Memphis; nous revenions de lui rendre visite. {disgustA} Nous étions dans une station-service et un mec a attrapé mon garçon.
 31)  KENNY
@@ -65,15 +65,15 @@ J'en ai aucune idée.
 32)  KENNY
 {happyB} Nous allons bien, merci de demander.
 33)  KENNY
-{angryA} Retournez à Lauderdale et laissez ce tout ce bordel rentrer dans l'ordre.
+{angryA} Retourner à Lauderdale et laisser tout ce bordel rentrer dans l'ordre.
 37)  KENNY
-{angryA} Retournez à Lauderdale et laissez ce tout ce bordel rentrer dans l'ordre.
+{angryA} Retourner à Lauderdale et laisser tout ce bordel rentrer dans l'ordre.
 34)  KENNY
-{happyA} Je suis un pêcheur, la capture du maquereau, du dauphin, de tout ce qui mord et rapporte.  {disgustA} Katjaa n'aimait pas ça,{happyA} mais le bateau ce n'est pas si mauvais.
+{happyA} Je suis un pêcheur, la capture du maquereau, du dauphin, de tout ce qui mord et rapporte. {disgustA} Katjaa n'aimait pas ça,{happyA} mais le bateau ce n'est pas si mauvais.
 35)  LEE
 {normalD} Vous avez un bateau ?
 36)  KENNY
-{normalA} Le gouvernement va commencer à passer à l'action et la Garde nationale fera ce qui est le mieux. {thinkingA} Si par hasard les choses devenaient trop mauvaise, nous pourrons sauter dans mon bateau, je suppose.
+{normalA} Le gouvernement va commencer à passer à l'action et la Garde nationale fera ce qui est le mieux. {thinkingA} Si par hasard les choses devenaient trop mauvaises, nous pourrons sauter dans mon bateau, je suppose.
 38)  LEE
 Hé Kenny, ça va ?
 39)  KENNY

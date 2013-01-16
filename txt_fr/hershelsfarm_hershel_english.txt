@@ -1,7 +1,7 @@
 1)  HERSHEL
 {normalC} Un homme vous demande votre nom, vous le lui donnez. {disgustA} A moins que ce nom ne pose problème.
 2)  HERSHEL
-{angryA} Vous devriez savoir que si vous n'étiez pas venu avec Kenny, {disgustA} je n'aurais pas accepté votre manque d'honnêteté la nuit dernière.
+{angryA} Vous devriez savoir que si vous n'étiez pas venu avec Kenny, {disgustA} je n'aurais pas accepté votre manque d'honnêteté de la nuit dernière.
 3)  LEE
 {thinkingB} Je ne suis pas sûr de vous suivre.
 4)  HERSHEL
@@ -35,9 +35,9 @@ Je m'en allais de toute façon.
 15)  HERSHEL
 {thinkingA} Ha, s'il est jamais un bon moment pour la supposée "apocalypse"...
 16)  HERSHEL
-[incredulous] {thinkingA} Eh bien, je suis sur que c'était compliqué.
+[incredulous] {thinkingA} Eh bien, je suis sûr que c'était compliqué.
 70)  HERSHEL
-[incredulous] {thinkingA} Eh bien, je suis sur que c'était compliqué.
+[incredulous] {thinkingA} Eh bien, je suis sûr que c'était compliqué.
 17)  LEE
 {thinkingA} J'y ai été amené, oui.
 18)  LEE
@@ -45,13 +45,13 @@ Je m'en allais de toute façon.
 19)  HERSHEL
 {sadA} Ca n'a jamais été un projet, d'avoir un endroit comme ça. C'était dans la famille et je crois que moi aussi. {happyA} La famille, c'est important; c'est tout ce qui compte. {thinkingA}Vous êtes d'accord avec ça ?
 20)  HERSHEL
-{thinkingA} Ou se trouve votre famille à présent ? Des parents ? Une femme ? Une petite copine ?
+{thinkingA} Où se trouve votre famille à présent ? Des parents ? Une femme ? Une petite copine ?
 21)  HERSHEL
 {thinkingA} Eh, vous m'auriez dit y'a vingt ans que je ferais toujours ça,{happyA} je vous aurais dit que vous vous vous mettiez le doigt dans l'oeil.
 22)  LEE
 {normalD} Mes parents sont de Macon, avec mon frère.
 23)  LEE
-{normalD} Pas de femme, j'en ai plus. Je crois qu'elle est montée en Virginie.
+{normalD} Pas de femme, je n'en ai plus. Je crois qu'elle est montée en Virginie.
 24)  LEE
 {normalD} Pas de famille. {happyA}J'avais un poisson combattant sur mon bureau à l'Université.
 25)  LEE
@@ -73,7 +73,7 @@ Pas de famille.
 71)  HERSHEL
 {angryA} Bien. N'ouvrez pas la bouche. {disgustA} C'est diablement grossier, mais c'est ce qu'un homme est censé faire.
 34)  HERSHEL
-{sadA}{body-D} Mais maintenant vous avez cette petite fille dont il faut prendre soin.{body-handships} Clementine, c'est ça ? {thinkingA}Vous êtes simplement tombé sur elle ?
+{sadA}{body-D} Mais maintenant vous avez cette petite fille dont il faut prendre soin.{body-handships} Clémentine, c'est ça ? {thinkingA}Vous êtes simplement tombé sur elle ?
 36)  LEE
 {normalC}{body-A} Ouais, je cherchais de l'aide chez elle.
 37)  LEE
@@ -83,9 +83,9 @@ Pas de famille.
 39)  
 Je cherchais de l'aide chez elle.
 40)  
-J'étais attaque et elle est venue à mon secours.
+J'étais attaqué et elle est venue à mon secours.
 41)  
-Ou voulez-vous en venir ?
+Où voulez-vous en venir ?
 42)  HERSHEL
 [judgmental, distrusting] {disgustA} Hmm. [like, is that so]
 43)  HERSHEL
@@ -123,7 +123,7 @@ Occupez-vous de vos affaires.
 57)  HERSHEL
 {fearA} Oh, et {angryA}je commencerais à surveiller mon attitude (checking the attitude), l'ami.
 58)  HERSHEL
-{sadA} Oh, et {angryA}essayer d'être moins con, ça vous rendrait bien service.
+{sadA} Oh, et {angryA}essayez d'être moins con, ça vous rendrait bien service.
 59)  HERSHEL
 {angryA} Encore une chose : {thinkingA} vous allez devoir apprendre à répondre à une question toute bête quand on vous la pose.
 60)  HERSHEL
@@ -137,7 +137,7 @@ Occupez-vous de vos affaires.
 64)  HERSHEL
 [pickup1] Et honnêtement, je ne veux même pas savoir.
 65)  HERSHEL
-[pickup1] {disgustA} Chuis pas demeuré. Je vous ai pris en plein mensonge la nuit dernière; sur ceux qui étaient dans cette voiture.
+[pickup1] {disgustA} Suis pas demeuré. Je vous ai pris en plein mensonge la nuit dernière; sur ceux qui étaient dans cette voiture.
 66)  HERSHEL
 [pickup1] HMMPH. [pissed]
 72)  HERSHEL

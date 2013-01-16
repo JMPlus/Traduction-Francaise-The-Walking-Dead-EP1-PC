@@ -11,7 +11,7 @@
 6)  CLEMENTINE
 {cryingB}Un peu. [grimace] {fearB}Pas beaucoup.
 7)  LEE
-[incredulous]{fearA} Tu es sûr ?
+[incredulous]{fearA} Tu es sûre ?
 8)  CLEMENTINE
 Ouais.
 9)  LEE
@@ -33,7 +33,7 @@ Ouais.
 17)  CLEMENTINE
 Un moyen aïe.
 18)  LEE
-{happyB}D'accord, c'est pas cassé.
+{happyB}D'accord, ce n'est pas cassé.
 19)  LEE
 {happyA}	Protégeons cette coupure.
 20)  CLEMENTINE
@@ -47,13 +47,13 @@ Un moyen aïe.
 100)  CLEMENTINE
 [Comment ça va ?] {fearA}Bien.
 23)  LEE
-{happyB}C'est pas une mauvaise chose.
+{happyB}Ce n'est pas une mauvaise chose.
 103)  LEE
-{happyB}C'est pas une mauvaise chose.
+{happyB}Ce n'est pas une mauvaise chose.
 24)  LEE
-{happyA}Vous euh... ne parlez pas beaucoup.
+{happyA}Tu euh... ne parles pas beaucoup.
 102)  LEE
-{happyA}Vous euh... ne parlez pas beaucoup.
+{happyA}Tu euh... ne parles pas beaucoup.
 25)  LEE
 {thinkingA}Comment ça va là-bas ?
 26)  CLEMENTINE
@@ -89,7 +89,7 @@ Tu es bien ici dans le drugstore ?
 35)  CLEMENTINE
 Mmhmm.
 36)  CLEMENTINE
-{happyB}Ouais, {thinkingA}{fearA}eh bien, peut-être pas le type malade.
+{happyB}Ouais, {thinkingA}{fearA}eh bien, peut-être pas le monsieur malade.
 37)  LEE
 {thinkingA}	Ouais. [thinking] On va garder un oeil sur lui.
 39)  CLEMENTINE
@@ -125,17 +125,17 @@ Mmhmm.
 47)  LEE
 {sadA}	Ouais, je... j'étais très loin.
 48)  CLEMENTINE
-{fearA}	Cette dame m'a sauvé.
+{fearA}	Cette dame m'a sauvée.
 77)  CLEMENTINE
-{fearA}	Cette dame m'a sauvé.
+{fearA}	Cette dame m'a sauvée.
 49)  LEE
 {sadA}	Je suis content qu'elle l'ait fait.
 78)  LEE
 {sadA}	Je suis content qu'elle l'ait fait.
 50)  CLEMENTINE
-{sadB}	Faudra peut-être rester plus près la prochaine fois ? Donc tu pars pas si loin...
+{sadB}	Faudra peut-être rester plus près la prochaine fois ? Donc tu ne pars plus si loin...
 79)  CLEMENTINE
-{sadB}	Faudra peut-être rester plus près la prochaine fois ? Donc tu pars pas si loin...
+{sadB}	Faudra peut-être rester plus près la prochaine fois ? Donc tu ne pars plus si loin...
 51)  LEE
 {sadA}{happyA}	Je vais essayer.
 52)  CLEMENTINE
@@ -169,7 +169,7 @@ Mmhmm.
 60)  CLEMENTINE
 {sadA}	Un moyen aïe.
 63)  CLEMENTINE
-{happyB}	Oui. {thinkingA}{fearA}Peut-être pas le type malade.
+{happyB}	Oui. {thinkingA}{fearA}Peut-être pas le monsieur malade.
 64)  LEE
 {thinkingA}	Ouais. [thinking] On va garder un oeil sur lui..
 65)  CLEMENTINE
